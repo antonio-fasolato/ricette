@@ -24,4 +24,9 @@
 
 - [Primi]()
 - [Secondi]()
+- [Verdure]()
+  - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)
+  - [Garlic Butter Meatballs](Garlic-Butter-Meatballs.md)
+  - [Keto Beef Stroganoff](Keto-Beef-Stroganoff.md)
+  - [Keto mini quiche al prosciutto](Keto-mini-quiche-al-prosciutto.md)
 - [Dolci]()
