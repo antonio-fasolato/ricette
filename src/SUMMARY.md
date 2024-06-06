@@ -7,6 +7,7 @@
 # Secondi
 
 - [Carne]()
+  - [Cosce di pollo ai funghi](Cosce-di-pollo-ai-funghi.md)
 - [Verdura]()
 
 # Dolci
