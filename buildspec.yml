@@ -26,10 +26,10 @@ phases:
     commands:
       - echo Entered the post_build phase...
       - ls -lah book
-      - zip book.zip book/**/*
       - echo Build completed on `date`
 
 artifacts:
   files:
-    - book.zip
+    - '**/*'
+  base-directory: book
   discard-paths: no
