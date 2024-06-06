@@ -12,10 +12,21 @@
 
 # Dolci
 
+# Varie
+
+- [Chips di parmigiano](Chips-di-parmigiano.md)
+
 # Ramen
+
+- [Brodo di ossa di manzo](Brodo-di-ossa-di-manzo.md)
 
 # Da provare
 
 - [Primi]()
 - [Secondi]()
+- [Verdure]()
+  - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)
+  - [Garlic Butter Meatballs](Garlic-Butter-Meatballs.md)
+  - [Keto Beef Stroganoff](Keto-Beef-Stroganoff.md)
+  - [Keto mini quiche al prosciutto](Keto-mini-quiche-al-prosciutto.md)
 - [Dolci]()
