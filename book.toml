@@ -1,0 +1,6 @@
+[book]
+authors = ["Antonio Fasolato"]
+language = "it"
+multilingual = false
+src = "src"
+title = "Ricette"
