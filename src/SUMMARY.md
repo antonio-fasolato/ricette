@@ -12,7 +12,13 @@
 
 # Dolci
 
+# Varie
+
+- [Chips di parmigiano](Chips-di-parmigiano.md)
+
 # Ramen
+
+- [Brodo di ossa di manzo](Brodo-di-ossa-di-manzo.md)
 
 # Da provare
 
