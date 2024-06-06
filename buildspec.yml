@@ -1,0 +1,32 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Entered the install phase...
+      - mkdir bin
+      - curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=bin
+    finally:
+      - echo mdbook installed correctly
+  pre_build:
+    commands:
+      - echo Entered the pre_build phase...
+    finally:
+      - echo pre_build finished
+  build:
+    commands:
+      - echo Entered the build phase...
+      - echo Build started on `date`
+      - bin/mdbook build
+      - ls -lah
+    finally:
+      - echo build finished
+  post_build:
+    commands:
+      - echo Entered the post_build phase...
+      - echo Build completed on `date`
+
+artifacts:
+  files:
+    - book/**/*
+  discard-paths: no
