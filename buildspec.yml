@@ -19,11 +19,13 @@ phases:
       - echo Build started on `date`
       - bin/mdbook build
       - ls -lah src
+      - ls -lah src/img
     finally:
       - echo build finished
   post_build:
     commands:
       - echo Entered the post_build phase...
+      - ls -lah book
       - echo Build completed on `date`
 
 artifacts:
