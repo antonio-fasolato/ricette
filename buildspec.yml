@@ -20,6 +20,7 @@ phases:
     commands:
       - echo Entered the build phase...
       - echo Build started on `date`
+      - export PATH=/mdbook/bin:$PATH
       - /mdbook/bin/mdbook build
       - ls -lah src
       - ls -lah src/img
