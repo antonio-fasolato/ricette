@@ -3,6 +3,7 @@
 # Primi
 
 - [Sugo di pomodoro fresco al basilico](./Sugo-di-pomodoro-fresco-al-basilico.md)
+- [Spaghetti Cacio e Pepe](Spaghetti-Cacio-e-Pepe.md)
 
 # Secondi
 
@@ -23,6 +24,9 @@
 # Da provare
 
 - [Primi]()
+  - [Tagliolini paglia e fieno con champignon e speck](Tagliolini-paglia-e-fieno-con-champignon-e-speck.md)
+  - [Paccheri alla zucca, prosciutto crudo croccante, riduzione di Sangiovese e polvere di cipolla ricavata dai suoi scarti](Paccheri-alla-zucca-prosciutto-crudo-croccante,-riduzione-di-Sangiovese-e-polvere-di-cipolla-ricavata-dai-suoi-scarti.md)
+  - [Bucatini alla gricia](Bucatini-alla-gricia.md)
 - [Secondi]()
 - [Verdure]()
   - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)

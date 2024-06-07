@@ -5,4 +5,7 @@ multilingual = false
 src = "src"
 title = "Ricette"
 
+[output.html]
+mathjax-support = true
+
 [preprocessor.indexing]
