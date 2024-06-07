@@ -1,1 +1,23 @@
 # ricette
+
+## Plugin usati
+
+- https://github.com/daviddrysdale/mdbook-indexing
+
+## CodeBuild docker test image
+
+Base image:
+
+```bash
+git clone https://github.com/aws/aws-codebuild-docker-images.git
+$ cd aws-codebuild-docker-images
+$ cd ubuntu/standard/7.0
+$ docker build -t aws/codebuild/standard:7.0 .
+```
+
+Local test image
+
+```bash
+docker build -t ricette-aws-build .
+docker run --rm -ti -v $(pwd):/ricette ricette-aws-build build /ricette
+```
