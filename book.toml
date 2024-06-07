@@ -4,3 +4,5 @@ language = "it"
 multilingual = false
 src = "src"
 title = "Ricette"
+
+[preprocessor.indexing]

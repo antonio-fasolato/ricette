@@ -9,6 +9,8 @@
 
 ## Procedimento
 
+{{hi:Pomodoro}}
+
 1. Quando acquisterete i pomodori da sugo, controllateli uno ad uno, eliminando quelli guasti, macchiati o ammaccati. Eliminate i piccioli e lavateli molto bene, quindi asciugateli.
 2. Tagliate in due metà ogni pomodoro e levate ad ognuna di esse la parte verde del picciolo. Spremete in una ciotola o nel lavandino le due metà del pomodoro affinché fuoriescano tutti i semi.
 3. Mettete i pomodori da sugo in una pentola di acciaio, che sistemerete sul fuoco basso coperta dal coperchio; lasciate cuocere i pomodori, girandoli di tanto in tanto, finché risulteranno appassiti e si disferanno.
