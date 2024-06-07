@@ -4,8 +4,11 @@ phases:
   install:
     commands:
       - echo Entered the install phase...
-      - mkdir bin
-      - curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=bin
+      - curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs > sh.rustup.rs
+      - chmod +x sh.rustup.rs && ./sh.rustup.rs -y
+      - mkdir -p /mdbook/bin
+      - curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=/mdbook/bin
+      - /root/.cargo/bin/cargo install mdbook-indexing
     finally:
       - echo mdbook installed correctly
   pre_build:
@@ -17,7 +20,7 @@ phases:
     commands:
       - echo Entered the build phase...
       - echo Build started on `date`
-      - bin/mdbook build
+      - /mdbook/bin/mdbook build
       - ls -lah src
       - ls -lah src/img
     finally:
