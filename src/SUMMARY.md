@@ -31,6 +31,4 @@
   - [Keto mini quiche al prosciutto](Keto-mini-quiche-al-prosciutto.md)
 - [Dolci]()
 
-# Index
-
 - [Index](Indexing.md)
