@@ -4,6 +4,36 @@
 
 - https://github.com/daviddrysdale/mdbook-indexing
 
+## Template
+
+```
+{{hi:Pomodoro}}
+
+## Ingredienti
+
+| Ingredienti                  | Ingredienti             |
+| ---------------------------- | ----------------------- |
+| **** -  | **** -  |
+| **** - | **** - |
+| **** - | **** - |
+| **** - | **** - |
+| **** - | **** - |
+| **** - | **** - |
+| **** - | **** - |
+| **** - | **** - |
+| **** - | **** - |
+
+## Procedimento
+
+1. 
+
+![](img/.jpg)
+```
+
+## Indici
+
+`{{hi:Testo}}`
+
 ## CodeBuild docker test image
 
 Base image:
