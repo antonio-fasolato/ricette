@@ -1,5 +1,7 @@
 # Chips di parmigiano
 
+![](img/chips-di-parmigiano.jpg)
+
 ## Ingredienti
 
 | Ingredienti                        | Ingredienti                     |
@@ -16,4 +18,3 @@
 4. Cuoci in forno per circa 8/10 minuti e controllare spesso. Le chips dovrebbero diventare di colore marrone chiaro, e non scurirsi troppo.
 5. Togli le chips di parmigiano dal forno e lasciale raffreddare prima di servirle.
 
-![](img/chips-di-parmigiano.jpg)

@@ -1,5 +1,7 @@
 # Garlic Butter Meatballs
 
+![](img/Garlic-Butter-Meatballs.jpg)
+
 ## Ingredienti
 
 | Ingredienti                             | Ingredienti                          |
@@ -16,5 +18,3 @@
 1. In a large bowl, mix ground chicken, 2 cloves garlic (2 teaspoons minced), egg, Parmesan, parsley, and red pepper flakes. Season with salt and pepper, then form into tablespoon-size meatballs.
 2. In a large skillet over medium heat, heat oil and cook meatballs until golden on all sides and cooked through, about 10 minutes. Transfer to a plate and wipe out skillet with a paper towel.
 3. Melt butter in skillet and add remaining minced garlic. Cook until fragrant, 1 minute. Add zoodles to skillet, toss with garlic butter, and add lemon juice. Return meatballs to skillet and heat until warmed through.
-
-![](img/Garlic-Butter-Meatballs.jpg)

@@ -1,5 +1,7 @@
 # Sugo di pomodoro fresco al basilico
 
+![](img/Sugo_di_pomodoro_fresco_al_basilico.jpg)
+
 ## Ingredienti
 
 | Ingredienti                  | Ingredienti             |
@@ -18,4 +20,3 @@
 5. Una volta passati tutti i pomodori, versate la passata in una pentola d'acciaio più piccola che metterete sul fuoco.
 6. Aggiungete al sugo il sale e l'olio e fatelo consumare a fuoco vivace fino alla densità desiderata, poi spegnete il fuoco e aggiungete alla salsa il basilico intero o spezzettato grossolanamente a mano.
 
-![](img/Sugo_di_pomodoro_fresco_al_basilico.jpg)

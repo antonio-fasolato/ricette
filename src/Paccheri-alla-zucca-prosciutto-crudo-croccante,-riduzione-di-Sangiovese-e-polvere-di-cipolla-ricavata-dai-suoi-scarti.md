@@ -1,5 +1,7 @@
 # Paccheri alla zucca, prosciutto crudo croccante, riduzione di Sangiovese e polvere di cipolla ricavata dai suoi scarti
 
+![](img/Paccheri-alla-zucca.jpg)
+
 {{hi:Paccheri}}
 {{hi:Zucca}} 
 {{hi:Prosciutto crudo}}
@@ -26,5 +28,3 @@
 1. Cuocere la pasta in acqua salata e scolarla due minuti prima del tempo indicato per ultimare la cottura nella casseruola con la zucca.
 1. A cottura ultimata, mantecare con parmigiano, pecorino e versare un pò di riduzione di Sangiovese a filo con un cucchiaio. 
 1. Aggiungere infine un pò d'olio, le erbe aromatiche e servire con il prosciutto croccante e la polvere di cipolla.
-
-![](img/Paccheri-alla-zucca.jpg)

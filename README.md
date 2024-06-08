@@ -7,6 +7,8 @@
 ## Template
 
 ```
+![](img/.jpg)
+
 {{hi:Pomodoro}}
 
 ## Ingredienti
@@ -26,8 +28,6 @@
 ## Procedimento
 
 1. 
-
-![](img/.jpg)
 ```
 
 ## Indici
