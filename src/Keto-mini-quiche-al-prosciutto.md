@@ -1,5 +1,7 @@
 # Keto mini quiche al prosciutto
 
+![](img/Keto-mini-quiche-al-prosciutto.jpg)
+
 ## Ingredienti
 
 | Ingredienti        | Ingredienti                                                 |
@@ -16,5 +18,3 @@
 1. Metti le tre fette di prosciutto nei contenitori, coprendo i lati e il fondo.
 2. In una ciotola di medie dimensioni, sbatti insieme le uova, il mascarpone, l'erba cipollina, il sale e il pepe. Versa il composto di uova nei contenitori e metti in forno per 15 minuti o fino a quando il composto di uova non si è solidificato.
 3. Servi le quiche al prosciutto leggermente calde.
-
-![](img/Keto-mini-quiche-al-prosciutto.jpg)

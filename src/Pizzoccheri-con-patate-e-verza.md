@@ -1,5 +1,7 @@
 # Pizzoccheri con patate e verza
 
+![](img/Pizzoccheri-con-patate-e-verza.jpg)
+
 {{hi:Verza}}
 {{hi:Coste}}
 
@@ -22,5 +24,3 @@
     pizzoccheri in una pirofila, aggiungere il formaggio a cubetti, il grana grattugiato e continuare fino a finire gli ingredienti.
 1. Infine versarvi sopra il burro sciolto. Servire i pizzoccheri con una macinata di pepe.
 1. Per questo piatto, a seconda della stagionalità, si possono usare verze o coste.
-
-![](img/Pizzoccheri-con-patate-e-verza.jpg)

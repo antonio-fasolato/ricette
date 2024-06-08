@@ -1,5 +1,7 @@
 # Keto Beef Stroganoff
 
+![](img/Keto-Beef-Stroganoff.jpg)
+
 ## Ingredienti
 
 | Ingredienti                                  | Ingredienti                                    |
@@ -24,5 +26,3 @@
 8. Add broth, cream cheese, sour cream, Worcestershire, Dijon, and paprika to skillet. Bring to a simmer, stirring.
 9. Return beef to skillet and stir to combine.
 10. Serve over cauliflower rice with garnish with parsley.
-
-![](img/Keto-Beef-Stroganoff.jpg)
