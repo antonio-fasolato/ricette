@@ -2,11 +2,16 @@
 
 # Primi
 
-- [Sugo di pomodoro fresco al basilico](./Sugo-di-pomodoro-fresco-al-basilico.md)
-- [Spaghetti Cacio e Pepe](Spaghetti-Cacio-e-Pepe.md)
-- [Pizzoccheri con patate e verza](Pizzoccheri-con-patate-e-verza.md)
-- [Tagliolini al limone](Tagliolini-al-limone.md)
-- [Pasta con crema di peperoni e ricotta](Pasta-con-crema-di-peperoni-e-ricotta.md)
+- [Pasta]()
+  - [Sugo di pomodoro fresco al basilico](./Sugo-di-pomodoro-fresco-al-basilico.md)
+  - [Spaghetti Cacio e Pepe](Spaghetti-Cacio-e-Pepe.md)
+  - [Pizzoccheri con patate e verza](Pizzoccheri-con-patate-e-verza.md)
+  - [Tagliolini al limone](Tagliolini-al-limone.md)
+  - [Pasta con crema di peperoni e ricotta](Pasta-con-crema-di-peperoni-e-ricotta.md)
+- [Riso]()
+  - [Nasi goreng](Nasi-goreng.md)
+  - [Risotto alle ortiche](Risotto-alle-ortiche.md)
+  - [Risotto alla zucca](Risotto-alla-zucca.md)
 
 # Secondi
 
@@ -27,11 +32,16 @@
 # Da provare
 
 - [Primi]()
-  - [Tagliolini paglia e fieno con champignon e speck](Tagliolini-paglia-e-fieno-con-champignon-e-speck.md)
-  - [Paccheri alla zucca, prosciutto crudo croccante, riduzione di Sangiovese e polvere di cipolla ricavata dai suoi scarti](Paccheri-alla-zucca-prosciutto-crudo-croccante,-riduzione-di-Sangiovese-e-polvere-di-cipolla-ricavata-dai-suoi-scarti.md)
-  - [Bucatini alla gricia](Bucatini-alla-gricia.md)
-  - [Pasta con asparagi e pancetta](Pasta-con-asparagi-e-pancetta.md)
-  - [Lasagne al ragù bianco e zucchine](Lasagne-al-ragu-bianco-e-zucchine.md)
+  - [Pasta]()
+    - [Tagliolini paglia e fieno con champignon e speck](Tagliolini-paglia-e-fieno-con-champignon-e-speck.md)
+    - [Paccheri alla zucca, prosciutto crudo croccante, riduzione di Sangiovese e polvere di cipolla ricavata dai suoi scarti](Paccheri-alla-zucca-prosciutto-crudo-croccante,-riduzione-di-Sangiovese-e-polvere-di-cipolla-ricavata-dai-suoi-scarti.md)
+    - [Bucatini alla gricia](Bucatini-alla-gricia.md)
+    - [Pasta con asparagi e pancetta](Pasta-con-asparagi-e-pancetta.md)
+    - [Lasagne al ragù bianco e zucchine](Lasagne-al-ragu-bianco-e-zucchine.md)
+    - [Fusilli con fave pecorino e guanciale](Fusilli-con-fave-pecorino-e-guanciale.md)
+  - [Riso]()
+    - [Crocchette filanti di champignon e asiago](Crocchette-filanti-di-champignon-e-asiago.md)
+    - [Riso alla cantonese](Riso-alla-cantonese.md)
 - [Secondi]()
 - [Verdure]()
   - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)
