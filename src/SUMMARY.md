@@ -12,6 +12,9 @@
   - [Nasi goreng](Nasi-goreng.md)
   - [Risotto alle ortiche](Risotto-alle-ortiche.md)
   - [Risotto alla zucca](Risotto-alla-zucca.md)
+- [Zuppe]()
+  - [Zuppa d'orzo in brodo di croste di Grana Padano e funghi porcini](Zuppa-dorzo-in-brodo-di-croste-di-Grana-Padano-e-funghi-porcini.md)
+  - [Zuppa rustica ai tre cereali](Zuppa-rustica-ai-tre-cereali.md)
 
 # Secondi
 
@@ -20,6 +23,13 @@
 - [Verdura]()
 
 # Dolci
+
+# Pane
+
+- [Lieviti e tecniche]()
+  - [Lieviti base o lieviti in pasta](Lieviti-base-o-lieviti-in-pasta.md)
+    - [Biga](Biga.md)
+    - [Biga poolish](Biga-poolish.md)
 
 # Varie
 
@@ -42,6 +52,9 @@
   - [Riso]()
     - [Crocchette filanti di champignon e asiago](Crocchette-filanti-di-champignon-e-asiago.md)
     - [Riso alla cantonese](Riso-alla-cantonese.md)
+  - [Zuppe]()
+    - [Potato cheddar soup](Potato-cheddar-soup.md)
+    - [Crema di fave, cicoria e noci](Crema-di-fave-cicoria-e-noci.md)
 - [Secondi]()
 - [Verdure]()
   - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)
