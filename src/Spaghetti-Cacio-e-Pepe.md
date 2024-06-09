@@ -1,5 +1,7 @@
 # Spaghetti Cacio e Pepe
 
+![](img/Spaghetti-Cacio-e-Pepe.jpg)
+
 {{hi:Pomodoro}}
 
 ## Ingredienti
@@ -18,7 +20,6 @@
 1. Terminate la cottura della pasta, aggiungendo poca acqua calda ancora se necessario; prima di unire la crema di Pecorino, mescolate brevemente la crema ponendo la ciotola sopra il vapore del tegame con acqua calda, mescolate sempre con la frusta **13**, così da riportare la crema ad una temperatura simile a quella della pasta se necessario **14**. Spegnete il fuoco della padella con gli spaghetti e versate la crema di Pecorino **15**.
 1. Mentre versate la crema di Pecorino sugli spaghetti, muoveteli continuamente con la pinza da cucina **16**, versate anche il Pecorino che avevate tenuto da parte **17**, mescolate e saltate ancora la pasta quindi impiattate i vostri spaghetti cacio e pepe e insaporite con il restante pepe, gustate subito in tutta la loro cremosità **18**!
 
-![](img/Spaghetti-Cacio-e-Pepe.jpg)
 
 ---
 

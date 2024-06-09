@@ -1,5 +1,7 @@
 # Pasta con asparagi e pancetta
 
+![](img/Pasta-con-asparagi-e-pancetta.jpg)
+
 {{hi:Asparagi}}
 {{hi:Pancetta}}
 
@@ -21,5 +23,3 @@
 1. Dovrete ottenere una crema liscia. Tenete la crema da parte, mentre versate la pancetta all'interno della padella utilizzata per la cottura degli asparagi e lasciate rosolare per 2 minuti a fuoco medio, mescolando di tanto in tanto. Unite anche le punte d'asparago e lasciate rosolare ancora per 5 minuti.
 1. Nel frattempo cuocete la pasta al dente. Tenete da parte qualche strisciolina di pancetta e punta di asparago rosolati, quindi versate anche la crema di asparagi all’interno della padella con il condimento, aggiungete anche le rondelle di asparagi.
 1. Scolate la pasta direttamente in padella e mantecate per un paio di minuti sino ad ottenere una pasta ben condita e cremosa. Impiattate, aggiungete del pepe grattugiato fresco a piacere e decorate ciascun piatto da portata con le punte di asparago e le listarelle di pancetta tenute da parte!
-
-![](img/Pasta-con-asparagi-e-pancetta.jpg)

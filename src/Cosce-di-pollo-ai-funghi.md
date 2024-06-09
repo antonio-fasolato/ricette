@@ -1,5 +1,7 @@
 # Cosce di pollo ai funghi
 
+![](img/Cosce-di-pollo-ai-funghi.png)
+
 ## Ingredienti
 
 | Ingredienti                                | Ingredienti                       |
@@ -19,5 +21,3 @@
 3. Aggiungi la panna e il parmigiano nella stessa padella. Portala ad ebollizione a fuoco alto, poi abbassa la temperatura a medio alto. Cuoci a fuoco lento per 5 minuti, mescolando continuamente, fino a quando la salsa si addensa.
 4. Aggiungi i funghi e il pollo nella padella per scaldarli.
 
-
-![](img/Cosce-di-pollo-ai-funghi.png)

@@ -1,5 +1,7 @@
 # Tagliolini paglia e fieno con champignon e speck
 
+![](img/Tagliolini-paglia-e-fieno-con-champignon-e-speck.jpg)
+
 {{hi:Champignon}}
 {{hi:Funghi}}
 {{hi:Speck}}
@@ -30,5 +32,3 @@ Sugo:
 1. Per il condimento: tritate la cipolla e fatela appassire in una padella con un filo di olio e lo spicchio di aglio; aggiungete i funghi, tagliati a fettine, e fate rosolare per qualche minuto. Bagnate con il vino e lasciate sfumare, quindi proseguite la cottura per 10-15 minuti.
 1. Frullate la metà dello speck in un mixer da cucina con un goccio di acqua, fino a ottenere una cremina omogenea. Versatela in padella con i funghi e mescolate per bene. In un’altra padella fate cuocere lo speck restante finché non sarà ben croccante.
 1. Lessate la pasta in acqua bollente e leggermente salata, quindi scolatela al dente, versatela in padella con i funghi e la crema di speck e mantecate per bene. Impiattate, cospargete con lo speck croccante e il prezzemolo tritato e servite.
-
-![](img/Tagliolini-paglia-e-fieno-con-champignon-e-speck.jpg)

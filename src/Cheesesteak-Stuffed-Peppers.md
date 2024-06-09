@@ -1,5 +1,7 @@
 # Cheesesteak Stuffed Peppers
 
+![](img/Cheesesteak-Stuffed-Peppers.jpg)
+
 ## Ingredienti
 
 | Ingredienti                          | Ingredienti                                   |
@@ -22,5 +24,3 @@
 6. Add provolone to bottom of baked peppers and top with steak mixture.
 7. Top with another piece of provolone and broil until golden, 3 minutes
 8. Garnish with parsley before serving.
-
-![](img/Cheesesteak-Stuffed-Peppers.jpg)
