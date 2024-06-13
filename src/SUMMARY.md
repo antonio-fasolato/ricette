@@ -3,6 +3,10 @@
 # Antipasti
 
 - [Pizzette di polenta](Pizzette-di-polenta.md)
+- [Zucca al vapore con dadini di polenta fritta](Zucca-al-vapore-con-dadini-di-polenta-fritta.md)
+- [Nodini di parmigiano](Nodini-di-parmigiano.md)
+- [Giardiniera in agrodolce](Giardiniera-in-agrodolce.md)
+- [Zucca in saor](Zucca-in-saor.md)
 
 # Primi
 
@@ -60,6 +64,10 @@
 
 # Da provare
 
+- [Antipasti]()
+  - [Sfogliette con fave e pecorino](Sfogliette-con-fave-e-pecorino.md)
+  - [Disco di champignon e peperone dolce](Disco-di-champignon-e-peperone-dolce.md)
+  - [Sauerkraut](Sauerkraut.md)
 - [Primi]()
   - [Pasta]()
     - [Tagliolini paglia e fieno con champignon e speck](Tagliolini-paglia-e-fieno-con-champignon-e-speck.md)
