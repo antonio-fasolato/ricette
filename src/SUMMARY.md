@@ -46,6 +46,7 @@
   - [Pizza in padella a lunga lievitazione](Pizza-in-padella-a-lunga-lievitazione.md)
   - [Cheese scones](Cheese-scones.md)
   - [Impasto pane/pizza con grano duro](Impasto-pane-pizza-con-grano-duro.md)
+  - [American burger](American-burger.md)
 - [Macchina del pane]()
   - [Pane integrale MDP](Pane-integrale-MDP.md)
 
