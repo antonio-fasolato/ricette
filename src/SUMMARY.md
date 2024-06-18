@@ -90,6 +90,8 @@
     - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)
   - [Verdure]()
 - [Dolci]()
+  - [Mini cheesecake](Mini-cheesecake.md)
+  - [Torta alla lavanda](Torta-alla-lavanda.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)
