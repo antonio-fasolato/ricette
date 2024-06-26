@@ -115,3 +115,16 @@ docker tag ricette-aws-build:latest 820071945992.dkr.ecr.eu-south-1.amazonaws.co
 docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:1.0
 docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:latest
 ```
+
+# Appunti
+
+File passati:
+
+- `_ricette_lievito_madre`
+- `_ricette_antipasti`
+- `_ricette_ varie`
+- `_ricette_Pane`
+
+In lavorazione:
+
+- `_ricette secondi`

@@ -7,6 +7,7 @@
 - [Nodini di parmigiano](Nodini-di-parmigiano.md)
 - [Giardiniera in agrodolce](Giardiniera-in-agrodolce.md)
 - [Zucca in saor](Zucca-in-saor.md)
+- [Hummus](Hummus.md)
 
 # Primi
 
@@ -31,6 +32,8 @@
 - [Verdura]()
 
 # Dolci
+
+- [Sostituti del latticello](Sostituti-del-latticello.md)
 
 # Pane
 
@@ -68,6 +71,7 @@
   - [Sfogliette con fave e pecorino](Sfogliette-con-fave-e-pecorino.md)
   - [Disco di champignon e peperone dolce](Disco-di-champignon-e-peperone-dolce.md)
   - [Sauerkraut](Sauerkraut.md)
+  - [Coleslaw](Coleslaw.md)
 - [Primi]()
   - [Pasta]()
     - [Tagliolini paglia e fieno con champignon e speck](Tagliolini-paglia-e-fieno-con-champignon-e-speck.md)
@@ -88,6 +92,7 @@
     - [Keto Beef Stroganoff](Keto-Beef-Stroganoff.md)
     - [Keto mini quiche al prosciutto](Keto-mini-quiche-al-prosciutto.md)
     - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)
+    - [Pancetta di maiale brasata al coriandolo](Pancetta-di-maiale-brasata-al-coriandolo.md)
   - [Verdure]()
 - [Dolci]()
   - [Mini cheesecake](Mini-cheesecake.md)
