@@ -42,7 +42,7 @@ Per testare l'immagine docker di build:
 ```bash
 docker build -t ricette-aws-build .
 
-docker run --rm -ti -v $(pwd):/ricette -v $(pwd)/book-out:/book-out ricette-aws-build bash
+docker run --rm -ti -v $(pwd):/ricette -v $(pwd)/book-out: ricette-aws-build bash
 ```
 
 ## AWS
