@@ -29,6 +29,8 @@
 
 - [Carne]()
   - [Cosce di pollo ai funghi](Cosce-di-pollo-ai-funghi.md)
+  - [Filetto di maiale con funghi porcini](Filetto-di-maiale-con-funghi-porcini.md)
+  - [Beef ale and mushroom pie](Beef-ale-and-mushroom-pie.md)
 - [Verdura]()
 
 # Dolci
@@ -93,6 +95,8 @@
     - [Keto mini quiche al prosciutto](Keto-mini-quiche-al-prosciutto.md)
     - [Cheesesteak Stuffed Peppers](Cheesesteak-Stuffed-Peppers.md)
     - [Pancetta di maiale brasata al coriandolo](Pancetta-di-maiale-brasata-al-coriandolo.md)
+    - [Spezzatino di vitello con cipolline in agrodolce e scorze d'arancia](Spezzatino-di-vitello-con-cipolline-in-agrodolce-e-scorze-darancia.md)
+    - [Salsicce e fagioli all'uccelletto](Salsicce-e-fagioli-alluccelletto.md)
   - [Verdure]()
 - [Dolci]()
   - [Mini cheesecake](Mini-cheesecake.md)
