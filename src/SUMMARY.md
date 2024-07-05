@@ -35,6 +35,7 @@
   - [Pollo ai peperoni](Pollo-ai-peperoni.md)
 - [Pesce]()
   - [Bun di tonno](Bun-di-tonno.md)
+  - [Crispy tuna melt](Crispy-tuna-melt.md)
 - [Verdura]()
 
 # Dolci
@@ -101,6 +102,7 @@
     - [Pancetta di maiale brasata al coriandolo](Pancetta-di-maiale-brasata-al-coriandolo.md)
     - [Spezzatino di vitello con cipolline in agrodolce e scorze d'arancia](Spezzatino-di-vitello-con-cipolline-in-agrodolce-e-scorze-darancia.md)
     - [Salsicce e fagioli all'uccelletto](Salsicce-e-fagioli-alluccelletto.md)
+  - [Pesce]()
   - [Formaggio]()
     - [Bocconcini di Asiago fritti](Bocconcini-di-Asiago-fritti.md)
   - [Varie]()
