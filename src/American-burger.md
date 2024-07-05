@@ -7,7 +7,7 @@
 | Ingredienti                  | Ingredienti             |
 | ---------------------------- | ----------------------- |
 | **800 g** - Farina 0 | **25 g** - Zucchero |
-| **200 g** - Farina 0 | **20 g** - Miele |
+| **200 g** - Farina 00 | **20 g** - Miele |
 | **15 g** - Lievito di birra fresco | **25 g** - Sale |
 | **550 g** - Acqua | **120 g** - Uova (2) |
 | **50 g** - Burro | **100 g** - Semi di sesamo |
