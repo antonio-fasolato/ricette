@@ -36,6 +36,7 @@
 - [Pesce]()
   - [Bun di tonno](Bun-di-tonno.md)
   - [Crispy tuna melt](Crispy-tuna-melt.md)
+  - [Panino con spuma di tonno](Panino-con-spuma-di-tonno.md)
 - [Verdura]()
 
 # Dolci
