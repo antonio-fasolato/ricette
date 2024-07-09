@@ -124,7 +124,8 @@ File passati:
 - `_ricette_antipasti`
 - `_ricette_ varie`
 - `_ricette_Pane`
+- `_ricette secondi`
 
 In lavorazione:
 
-- `_ricette secondi`
+- `_ricette_dolci`

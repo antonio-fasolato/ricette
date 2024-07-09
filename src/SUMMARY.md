@@ -38,10 +38,19 @@
   - [Crispy tuna melt](Crispy-tuna-melt.md)
   - [Panino con spuma di tonno](Panino-con-spuma-di-tonno.md)
 - [Verdura]()
+  - [Patate schiacciate al forno](Patate-schiacciate-al-forno.md)
+  - [Peperoni ripieni di riso](Peperoni-ripieni-di-riso.md)
+  - [Finferli trifolati in padella](Finferli-trifolati-in-padella.md)
+  - [Patate fritte]()
+    - [Ricetta 1](Patate-fritte-1.md)
+    - [Ricetta stile Mc Donalds](Patate-fritte-2.md)
+  - [Peperoni al forno coi capperi](Peperoni-al-forno-coi-capperi.md)
 
 # Dolci
 
-- [Sostituti del latticello](Sostituti-del-latticello.md)
+- [Cheese cake con frutti rossi e briciole di biscotti](Cheese-cake-con-frutti-rossi-e-briciole-di-biscotti.md)
+- [Varie]()
+  - [Sostituti del latticello](Sostituti-del-latticello.md)
 
 # Pane
 
@@ -82,6 +91,7 @@
   - [Coleslaw](Coleslaw.md)
   - [Bruschette con Asiago grigliato, speck e asparagi](Bruschette-con-Asiago-grigliato-speck-e-asparagi.md)
   - [Crema di fave con pita al sesamo](Crema-di-fave-con-pita-al-sesamo.md)
+  - [Spiedini di pane alle erbe](Spiedini-di-pane-alle-erbe.md)
 - [Primi]()
   - [Pasta]()
     - [Tagliolini paglia e fieno con champignon e speck](Tagliolini-paglia-e-fieno-con-champignon-e-speck.md)
@@ -116,6 +126,17 @@
     - [Double-baked potatoes](Double-baked-potatoes.md)
     - [Torta di patate e pomodori](Torta-di-patate-e-pomodori.md)
     - [Vignarola](Vignarola.md)
+    - [Barchette di zucchine con stracchino e tonno](Barchette-di-zucchine-con-stracchino-e-tonno.md)
+    - [Polpette di zucchine al forno](Polpette-di-zucchine-al-forno.md)
+    - [Frittelle di zucchine](Frittelle-di-zucchine.md)
+    - [Rosti di cipolle e carote](Rosti-di-cipolle-e-carote.md)
+    - [Patate in tecia](Patate-in-tecia.md)
+    - [Hash browns](Hash-browns.md)
+    - [Polpette di ceci con contorno di patate e salsa yogurt](Polpette-di-ceci-con-contorno-di-patate-e-salsa-yogurt.md)
+    - [Arepa](Arepa.md)
+    - [Stuffed potato cakes](Stuffed-potato-cakes.md)
+    - [Frittata estiva di verdure](Frittata-estiva-di-verdure.md)
+    - [Torta rovesciata di peperoni e olive](Torta-rovesciata-di-peperoni-e-olive.md)
   - [Varie]()
     - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 - [Dolci]()
