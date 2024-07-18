@@ -126,7 +126,7 @@ File passati:
 - `_ricette_Pane`
 - `_ricette secondi`
 - `_ricette_dolci`
+- `_ricette`
 
 In lavorazione:
 
-- `_ricette`
