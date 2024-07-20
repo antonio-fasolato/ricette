@@ -31,6 +31,17 @@
 
 ```
 
+## Embedding di uno short di youtube
+
+```html
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/<Shorts_video_code>"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+```
+
 ## Indici
 
 `{{hi:Testo}}`
