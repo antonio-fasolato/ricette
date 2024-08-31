@@ -111,6 +111,7 @@
 - [Dolci]()
   - [Mini cheesecake](Mini-cheesecake.md)
   - [Torta alla lavanda](Torta-alla-lavanda.md)
+  - [Chocolate pie cake](Chocolate-pie-cake.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)
