@@ -195,6 +195,8 @@
   - [Magic Oatmeal Cookies: 1985](Magic-Oatmeal-Cookies-1985.md)
   - [Linzer Torte](Linzer-Torte.md)
   - [Chocolate pie cake](Chocolate-pie-cake.md)
+  - [Brioche Soffici come Nuvole](Brioche-Soffici-come-Nuvole.md)
+  - [Trecce Dolci](Trecce-Dolci.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)
