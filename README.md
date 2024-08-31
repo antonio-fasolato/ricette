@@ -15,7 +15,7 @@
 
 | Ingredienti                  | Ingredienti             |
 | ---------------------------- | ----------------------- |
-| **** -  | **** - |
+| **** - | **** - |
 | **** - | **** - |
 | **** - | **** - |
 | **** - | **** - |
@@ -29,6 +29,17 @@
 
 1. 
 
+```
+
+## Embedding di uno short di youtube
+
+```html
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/<Shorts_video_code>"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 ```
 
 ## Indici
@@ -116,15 +127,3 @@ docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:1.0
 docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:latest
 ```
 
-# Appunti
-
-File passati:
-
-- `_ricette_lievito_madre`
-- `_ricette_antipasti`
-- `_ricette_ varie`
-- `_ricette_Pane`
-
-In lavorazione:
-
-- `_ricette secondi`
