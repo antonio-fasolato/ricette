@@ -194,6 +194,7 @@
   - [Pavesini al cacao con cocco e ricotta](Pavesini-al-cacao-con-cocco-e-ricotta.md)
   - [Magic Oatmeal Cookies: 1985](Magic-Oatmeal-Cookies-1985.md)
   - [Linzer Torte](Linzer-Torte.md)
+  - [Chocolate pie cake](Chocolate-pie-cake.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)
