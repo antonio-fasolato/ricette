@@ -2,7 +2,8 @@
 
 ![](img/Chocolate-pie-cake.webp)
 
-{{hi:Pomodoro}}
+{{hi:Cioccolato fondente}}
+{{hi:Panna}}
 
 ## Ingredienti
 
