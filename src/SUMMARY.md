@@ -175,6 +175,8 @@
     - [Duchess Potatoes](Duchess-Potatoes.md)
     - [Potato Pavé](Potato-Pave.md)
     - [Potato Latkes](Potato-Latkes.md)
+    - [Nuggets di carote al forno](Nuggets-di-carote-al-forno.md)
+    - [Carote gratinate al forno](Carote-gratinate-al-forno.md)
   - [Varie]()
     - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 - [Dolci]()
