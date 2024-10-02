@@ -74,6 +74,7 @@
 - [Poorman's ice cream](Poormans-ice-cream.md)
 - [Chocolate-chip cookies](Chocolate-chip-cookies.md)
 - [Ciambellone soffice](Ciambellone-soffice.md)
+- [Tartellette con crema al limone](Tartellette-con-crema-al-limone.md)
 - [Pastafrolla]()
   - [Metodo della sabbiatura](Metodo-della-sabbiatura.md)
   - [Vari metodi](Vari-metodi.md)
@@ -201,7 +202,6 @@
   - [Trecce Dolci](Trecce-Dolci.md)
   - [Crema caffè](Crema-caffe.md)
   - [Mousse alla ricotta e al caffè](Mousse-alla-ricotta-e-al-caffe.md)
-  - [Tartellette con crema al limone](Tartellette-con-crema-al-limone.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)
@@ -209,5 +209,7 @@
   - [Pinsa romana](Pinsa-romana.md)
   - [Panini con gocce di cioccolato](Panini-con-gocce-di-cioccolato.md)
   - [Pesto and Bocconcini Sheet Pan Focaccia](Pesto-and-Bocconcini-Sheet-Pan-Focaccia.md)
+  - [Potato, Gorgonzola and Rosemary Sheet Pan Focaccia](Potato-Gorgonzola-and-Rosemary-Sheet-Pan-Focaccia.md)
+  - [Focaccia (Andy cooks)](Focaccia-andy-cooks.md)
 
 - [Index](Indexing.md)
