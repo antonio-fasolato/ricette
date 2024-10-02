@@ -152,6 +152,7 @@
     - [Carciofi ripieni della nonna](Carciofi-ripieni-della-nonna.md)
     - [Crostoni tostati al formaggio e pancetta](Crostoni-tostati-al-formaggio-e-pancetta.md)
     - [Girelle di petto di pollo e zucchine](Girelle-di-petto-di-pollo-e-zucchine.md)
+    - [Scouse](Scouse.md)
   - [Pesce]()
   - [Formaggio]()
     - [Bocconcini di Asiago fritti](Bocconcini-di-Asiago-fritti.md)
