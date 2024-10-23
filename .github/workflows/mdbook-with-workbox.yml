@@ -32,6 +32,12 @@ jobs:
       MDBOOK_VERSION: 0.4.36
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - name: Install node dependencies
+        run: npm ci
       - name: Install mdBook
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
@@ -42,6 +48,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with mdBook
         run: mdbook build
+      - name: Inject workbox scripts
+        run: npx workbox injectManifest workbox-config.js
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
