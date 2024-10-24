@@ -1,6 +1,6 @@
 # Torta di patate e pomodori
 
-![](img/Torta-di-patate-e-pomodori.jpg)
+![](img/Torta-di-patate-e-pomodori.webp)
 
 {{hi:Patate}}
 {{hi:Pomodoro}}

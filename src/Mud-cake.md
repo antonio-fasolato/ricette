@@ -1,6 +1,6 @@
 # Mud cake
 
-![](img/MudCake00.jpg)
+![](img/MudCake00.webp)
 
 {{hi:Cioccolato fondente}}
 {{hi:Cacao}}
@@ -30,14 +30,14 @@
 1. A questo punto trasferitela sulla mud cake e lisciatela con una spatola sulla superficie e sui lati. 
 1. Se volete potete realizzare anche dei ciuffetti di ganache per decorazione. 
 
-![](img/MudCake01.jpg)
+![](img/MudCake01.webp)
 
-![](img/MudCake02.jpg)
+![](img/MudCake02.webp)
 
-![](img/MudCake03.jpg)
+![](img/MudCake03.webp)
 
-![](img/MudCake04.jpg)
+![](img/MudCake04.webp)
 
-![](img/MudCake05.jpg)
+![](img/MudCake05.webp)
 
-![](img/MudCake06.jpg)
+![](img/MudCake06.webp)

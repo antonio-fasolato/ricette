@@ -1,6 +1,6 @@
 # Carrot cake
 
-![](img/Carrot-cake.jpg)
+![](img/Carrot-cake.webp)
 
 ## Ingredienti
 

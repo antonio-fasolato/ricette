@@ -1,6 +1,6 @@
 # Panna alla vaniglia con fragole e lamponi
 
-![](img/Panna-alla-vaniglia-con-fragole-e-lamponi.jpg)
+![](img/Panna-alla-vaniglia-con-fragole-e-lamponi.webp)
 
 {{hi:Panna}}
 {{hi:Fragole}}

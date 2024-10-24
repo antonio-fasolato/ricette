@@ -1,6 +1,6 @@
 # Polpette di ceci con contorno di patate e salsa yogurt
 
-![](img/Polpette-di-ceci-con-contorno-di-patate-e-salsa-yogurt.jpg)
+![](img/Polpette-di-ceci-con-contorno-di-patate-e-salsa-yogurt.webp)
 
 {{hi:Ceci}}
 {{hi:Parmigiano}}

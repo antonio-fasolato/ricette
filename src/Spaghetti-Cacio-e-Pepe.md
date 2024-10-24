@@ -1,6 +1,6 @@
 # Spaghetti Cacio e Pepe
 
-![](img/Spaghetti-Cacio-e-Pepe.jpg)
+![](img/Spaghetti-Cacio-e-Pepe.webp)
 
 {{hi:Pomodoro}}
 
@@ -23,14 +23,14 @@
 
 ---
 
-![](img/Spaghetti-Cacio-e-Pepe-01.jpg)
+![](img/Spaghetti-Cacio-e-Pepe-01.webp)
 
-![](img/Spaghetti-Cacio-e-Pepe-02.jpg)
+![](img/Spaghetti-Cacio-e-Pepe-02.webp)
 
-![](img/Spaghetti-Cacio-e-Pepe-03.jpg)
+![](img/Spaghetti-Cacio-e-Pepe-03.webp)
 
-![](img/Spaghetti-Cacio-e-Pepe-04.jpg)
+![](img/Spaghetti-Cacio-e-Pepe-04.webp)
 
-![](img/Spaghetti-Cacio-e-Pepe-05.jpg)
+![](img/Spaghetti-Cacio-e-Pepe-05.webp)
 
-![](img/Spaghetti-Cacio-e-Pepe-06.jpg)
+![](img/Spaghetti-Cacio-e-Pepe-06.webp)

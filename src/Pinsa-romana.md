@@ -1,6 +1,6 @@
 # Pinsa romana
 
-![](img/Pinsa-romana.jpg)
+![](img/Pinsa-romana.webp)
 
 {{hi:Farina di riso}}
 {{hi:Farina di soia}}
@@ -29,4 +29,4 @@
 1. Distribuite sulle pinse la passata di pomodoro (potete anche condirla con olio, sale e origano o metterla scondita), irrorate con un filo d’olio d’oliva e quando il forno avrà raggiunto la giusta temperatura mettete le teglie nella parte bassa del forno direttamente a contatto col fondo. Questo farà in modo che la base della pinsa diventi croccante e che il calore diretto faccia gonfiare bene la pinsa, che risulterà quindi soffice ed alveolata. A metà cottura, dopo circa 10 minuti, tirate fuori le pinse, distribuite anche la mozzarella a cubetti, qualche foglia di basilico e gli altri ingredienti che preferite e rimettete in forno non più sul fondo ma al primo livello e completate la cottura.
 1. Cuocete complessivamente per 25/30 minuti, controllate il grado di cottura verificando che sia uniforme, quindi togliete dal forno e servite la pinsa ben calda.
 
-![](img/Pinsa-romana-01.jpg)
+![](img/Pinsa-romana-01.webp)

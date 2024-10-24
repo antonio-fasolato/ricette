@@ -1,6 +1,6 @@
 # Lasagne al ragù bianco e zucchine
 
-![](img/Lasagne-al-ragu-bianco-e-zucchine.jpg)
+![](img/Lasagne-al-ragu-bianco-e-zucchine.webp)
 
 {{hi:Zucchine}}
 {{hi:Salsiccia}}

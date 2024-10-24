@@ -1,6 +1,6 @@
 # Polpette di zucchine al forno
 
-![](img/Polpette-di-zucchine-al-forno.jpg)
+![](img/Polpette-di-zucchine-al-forno.webp)
 
 {{hi:Zucchine}}
 {{hi:Primosale}}
@@ -23,12 +23,12 @@
 1. Lavorate tutti gli ingredienti con le mani (13) ottenendo un composto omogeneo (14). Formate delle palline prelevando una piccola porzione di impasto grande come una noce, schiacciatele leggermente (15). Con questi dosaggi otterrete circa 20 polpette. 
 1. Adagiate le polpette su una placca rivestita con carta forno, condite con un filo di olio (16) e cuocete in forno statico preriscaldato a 190° per 15 minuti, o sino a doratura esterna. Sfornate (17), salate leggermente in superficie e servite le vostre polpette di zucchine al forno (18).
 
-![](img/Polpette-di-zucchine-al-forno-01.jpg)
+![](img/Polpette-di-zucchine-al-forno-01.webp)
 
-![](img/Polpette-di-zucchine-al-forno-02.jpg)
+![](img/Polpette-di-zucchine-al-forno-02.webp)
 
-![](img/Polpette-di-zucchine-al-forno-03.jpg)
+![](img/Polpette-di-zucchine-al-forno-03.webp)
 
-![](img/Polpette-di-zucchine-al-forno-04.jpg)
+![](img/Polpette-di-zucchine-al-forno-04.webp)
 
-![](img/Polpette-di-zucchine-al-forno-05.jpg)
+![](img/Polpette-di-zucchine-al-forno-05.webp)

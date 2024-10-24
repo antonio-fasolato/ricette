@@ -1,6 +1,6 @@
 # Pavesini al cacao con cocco e ricotta
 
-![](img/Pavesini-al-cacao-con-cocco-e-ricotta.jpg)
+![](img/Pavesini-al-cacao-con-cocco-e-ricotta.webp)
 
 {{hi:Pavesini}}
 {{hi:Cocco}}

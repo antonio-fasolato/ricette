@@ -1,6 +1,6 @@
 # Bare di halloween
 
-![](img/bare-di-halloween.png)
+![](img/bare-di-halloween.webp)
 
 ## Ingredienti
 

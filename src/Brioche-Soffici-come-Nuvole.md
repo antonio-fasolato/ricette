@@ -1,6 +1,6 @@
 # Brioche Soffici come Nuvole
 
-![](img/Brioche-Soffici-Come-Nuvole.jpg)
+![](img/Brioche-Soffici-Come-Nuvole.webp)
 
 [Sorgente](https://blog.giallozafferano.it/ricettepanedolci/brioche-soffici-come-nuvole/)
 
@@ -26,8 +26,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-01.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-02.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-01.webp"/></td>
+    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-02.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -36,8 +36,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-03.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-04.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-03.webp"/></td>
+    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-04.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -49,8 +49,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-05.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-06.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-05.webp"/></td>
+    <td class="tg-0lax"><img src="img/Brioche-Soffici-Come-Nuvole-06.webp"/></td>
   </tr></tbody>
 </table>
 

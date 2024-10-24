@@ -7,7 +7,7 @@
 ## Template
 
 ```
-![](img/.jpg)
+![](img/.webp)
 
 {{hi:Pomodoro}}
 
@@ -82,7 +82,7 @@ Le permission policies del registry devono essere impostate come segue:
 }
 ```
 
-![](src/img/01.png)
+![](src/img/01.webp)
 
 ### CodeBuild
 
@@ -127,3 +127,10 @@ docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:1.0
 docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:latest
 ```
 
+
+
+```bash
+mdbook build
+npx workbox injectManifest workbox-config.js
+npx quick-serve book
+```

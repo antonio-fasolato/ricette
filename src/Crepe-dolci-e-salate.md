@@ -1,6 +1,6 @@
 # Crepe dolci e salate
 
-![](img/Crepe-dolci-e-salate.jpg)
+![](img/Crepe-dolci-e-salate.webp)
 
 {{hi:Pomodoro}}
 

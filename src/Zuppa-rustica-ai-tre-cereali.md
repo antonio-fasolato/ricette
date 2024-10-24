@@ -1,6 +1,6 @@
 # Zuppa rustica ai tre cereali
 
-![](img/Zuppa-rustica-ai-tre-cereali.jpg)
+![](img/Zuppa-rustica-ai-tre-cereali.webp)
 
 {{hi:Farro}}
 {{hi:Riso}}

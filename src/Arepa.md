@@ -1,6 +1,6 @@
 # Arepa
 
-![](img/Arepa.jpg)
+![](img/Arepa.webp)
 
 {{hi:Polenta}}
 

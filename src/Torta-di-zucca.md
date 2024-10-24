@@ -1,6 +1,6 @@
 # Torta di zucca
 
-![](img/Torta-di-zucca.jpg)
+![](img/Torta-di-zucca.webp)
 
 {{hi:Zucca}}
 

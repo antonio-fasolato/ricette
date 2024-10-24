@@ -1,6 +1,6 @@
 # Torta alla lavanda
 
-![](img/Torta-alla-lavanda.jpg)
+![](img/Torta-alla-lavanda.webp)
 
 {{hi:Mele}}
 {{hi:Lavanda}}

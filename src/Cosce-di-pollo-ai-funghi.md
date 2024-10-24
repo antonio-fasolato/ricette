@@ -1,6 +1,6 @@
 # Cosce di pollo ai funghi
 
-![](img/Cosce-di-pollo-ai-funghi.png)
+![](img/Cosce-di-pollo-ai-funghi.webp)
 
 ## Ingredienti
 

@@ -1,6 +1,6 @@
 # Vignarola
 
-![](img/Vignarola.jpg)
+![](img/Vignarola.webp)
 
 
 {{hi:Fave}}

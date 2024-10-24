@@ -1,6 +1,6 @@
 # Riso alla cantonese
 
-![](img/Riso-alla-cantonese.jpg)
+![](img/Riso-alla-cantonese.webp)
 
 {{hi:Piselli}}
 

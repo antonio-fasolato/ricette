@@ -1,6 +1,6 @@
 # Disco di champignon e peperone dolce
 
-![](img/Disco-di-champignon-e-peperone-dolce.jpg)
+![](img/Disco-di-champignon-e-peperone-dolce.webp)
 
 {{hi:Funghi}}
 {{hi:Peperoni}}

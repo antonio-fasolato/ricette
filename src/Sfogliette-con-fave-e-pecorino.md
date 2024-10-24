@@ -1,6 +1,6 @@
 # Sfogliette con fave e pecorino
 
-![](img/Sfogliette-con-fave-e-pecorino.jpg)
+![](img/Sfogliette-con-fave-e-pecorino.webp)
 
 {{hi:Fave}}
 {{hi:Pecorino}}

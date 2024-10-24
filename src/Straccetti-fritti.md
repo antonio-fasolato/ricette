@@ -1,6 +1,6 @@
 # Straccetti fritti
 
-![](img/Straccetti-fritti.jpg)
+![](img/Straccetti-fritti.webp)
 
 {{hi:Cipolla}}
 {{hi:Fave}}

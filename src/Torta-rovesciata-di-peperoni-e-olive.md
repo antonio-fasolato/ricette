@@ -1,6 +1,6 @@
 # Torta rovesciata di peperoni e olive
 
-![](img/Torta-rovesciata-di-peperoni-e-olive.png)
+![](img/Torta-rovesciata-di-peperoni-e-olive.webp)
 
 {{hi:Peperone}}
 {{hi:Olive taggiasche}}

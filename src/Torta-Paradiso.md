@@ -1,6 +1,6 @@
 # Torta Paradiso
 
-![](img/Torta-Paradiso.jpg)
+![](img/Torta-Paradiso.webp)
 
 ## Ingredienti
 
@@ -42,13 +42,13 @@
 
 1. Spolverate di zucchero a velo
 
-![](img/Torta-Paradiso-01.jpg)
+![](img/Torta-Paradiso-01.webp)
 
-![](img/Torta-Paradiso-02.jpg)
+![](img/Torta-Paradiso-02.webp)
 
-![](img/Torta-Paradiso-03.jpg)
+![](img/Torta-Paradiso-03.webp)
 
-![](img/Torta-Paradiso-04.jpg)
+![](img/Torta-Paradiso-04.webp)
 
 ## Note
 

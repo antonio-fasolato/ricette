@@ -1,6 +1,6 @@
 # Duchess Potatoes
 
-![](img/Duchess-Potatoes.jpg)
+![](img/Duchess-Potatoes.webp)
 
 {{hi:Patate}}
 

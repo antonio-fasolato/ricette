@@ -1,6 +1,6 @@
 # Torta mandorle e miele (torta principessa)
 
-![](img/Torta-mandorle-e-miele.jpg)
+![](img/Torta-mandorle-e-miele.webp)
 
 {{hi:Mandorle}}
 {{hi:Miele}}

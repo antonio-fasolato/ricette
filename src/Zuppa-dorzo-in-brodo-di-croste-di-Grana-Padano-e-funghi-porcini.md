@@ -1,6 +1,6 @@
 # Zuppa d'orzo in brodo di croste di Grana Padano e funghi porcini
 
-![](img/Zuppa-orzo-e-porcini00.jpg)
+![](img/Zuppa-orzo-e-porcini00.webp)
 
 {{hi:Orzo}}
 {{hi:Funghi}}

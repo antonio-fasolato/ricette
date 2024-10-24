@@ -1,6 +1,6 @@
 # Crema caffè
 
-![](img/crema-caffe.jpg)
+![](img/crema-caffe.webp)
 
 {{hi:Caffè solubile}}
 

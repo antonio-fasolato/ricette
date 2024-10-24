@@ -35,7 +35,7 @@ allowfullscreen></iframe>
 
 [Sorgente](https://scousemrdarcycooks.com/recipes/authentic-pan-of-scouse-to-celebrate-global-scouse-day/)
 
-![](img/Authentic-pan-of-Scouse.jpg)
+![](img/Authentic-pan-of-Scouse.webp)
 
 ### Ingredienti
 

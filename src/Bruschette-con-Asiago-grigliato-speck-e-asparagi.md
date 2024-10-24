@@ -1,6 +1,6 @@
 # Bruschette con Asiago grigliato, speck e asparagi
 
-![](img/Bruschette-con-Asiago-grigliato-speck-e-asparagi.jpg)
+![](img/Bruschette-con-Asiago-grigliato-speck-e-asparagi.webp)
 
 {{hi:Asiago}}
 {{hi:Speck}}

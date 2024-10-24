@@ -1,6 +1,6 @@
 # Gratin con porri e patate
 
-![](img/GRATIN-CON-PORRI-E-PATATE.jpg)
+![](img/GRATIN-CON-PORRI-E-PATATE.webp)
 
 {{hi:Porro}}
 {{hi:patate}}

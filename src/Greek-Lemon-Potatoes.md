@@ -1,6 +1,6 @@
 # Greek Lemon Potatoes
 
-![](img/Greek-Lemon-Potatoes.jpg)
+![](img/Greek-Lemon-Potatoes.webp)
 
 {{hi:Patate     }}
 

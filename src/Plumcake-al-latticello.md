@@ -1,6 +1,6 @@
 # Plumcake al latticello
 
-![](img/Plumcake-al-latticello.jpg)
+![](img/Plumcake-al-latticello.webp)
 
 {{hi:Latticello}}
 

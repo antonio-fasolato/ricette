@@ -1,6 +1,6 @@
 # Paccheri alla zucca, prosciutto crudo croccante, riduzione di Sangiovese e polvere di cipolla ricavata dai suoi scarti
 
-![](img/Paccheri-alla-zucca.jpg)
+![](img/Paccheri-alla-zucca.webp)
 
 {{hi:Paccheri}}
 {{hi:Zucca}} 

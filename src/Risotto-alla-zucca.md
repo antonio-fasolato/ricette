@@ -1,6 +1,6 @@
 # Risotto alla zucca
 
-![](img/Risotto-alla-zucca.jpg)
+![](img/Risotto-alla-zucca.webp)
 
 {{hi:Zucca}}
 

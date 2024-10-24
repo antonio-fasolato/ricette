@@ -1,6 +1,6 @@
 # Keto mini quiche al prosciutto
 
-![](img/Keto-mini-quiche-al-prosciutto.jpg)
+![](img/Keto-mini-quiche-al-prosciutto.webp)
 
 ## Ingredienti
 

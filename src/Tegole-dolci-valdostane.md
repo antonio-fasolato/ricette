@@ -1,6 +1,6 @@
 # Tegole dolci valdostane
 
-![](img/Tegole-valdostane.jpg)
+![](img/Tegole-valdostane.webp)
 
 ## Ingredienti
 

@@ -1,6 +1,6 @@
 # Salsicce e fagioli all'uccelletto
 
-![](img/Salsicce-e-fagioli-all-uccelletto.jpg)
+![](img/Salsicce-e-fagioli-all-uccelletto.webp)
 
 {{hi:Pomodoro}}
 {{hi:Salsiccia}}

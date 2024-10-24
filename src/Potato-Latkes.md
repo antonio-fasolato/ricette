@@ -1,6 +1,6 @@
 # Potato Latkes
 
-![](img/Potato-Latkes.jpg)
+![](img/Potato-Latkes.webp)
 
 ## Ingredienti
 

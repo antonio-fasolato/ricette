@@ -1,6 +1,6 @@
 # Pizzoccheri con patate e verza
 
-![](img/Pizzoccheri-con-patate-e-verza.jpg)
+![](img/Pizzoccheri-con-patate-e-verza.webp)
 
 {{hi:Verza}}
 {{hi:Coste}}

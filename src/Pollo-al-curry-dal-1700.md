@@ -1,6 +1,6 @@
 # Pollo al curry dal 1700
 
-![](img/Pollo-al-curry-dal-1700.jpg)
+![](img/Pollo-al-curry-dal-1700.webp)
 
 {{hi:Pollo}}
 {{hi:Curry}}

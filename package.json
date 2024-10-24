@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "quick-serve": "^1.0.0",
+    "workbox-cli": "^3.6.3"
+  }
+}

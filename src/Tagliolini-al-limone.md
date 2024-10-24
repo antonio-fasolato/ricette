@@ -1,6 +1,6 @@
 # Tagliolini al limone
 
-![](img/Tagliolini-al-limone.jpg)
+![](img/Tagliolini-al-limone.webp)
 
 {{hi:Limone}}
 

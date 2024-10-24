@@ -1,6 +1,6 @@
 # Peperoni ripieni di riso
 
-![](img/Peperoni-ripieni-di-riso.jpg)
+![](img/Peperoni-ripieni-di-riso.webp)
 
 {{hi:Peperoni}}
 {{hi:Riso}}

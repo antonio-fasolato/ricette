@@ -1,6 +1,6 @@
 # Torta al mars
 
-![](img/Torta-al-mars.jpg)
+![](img/Torta-al-mars.webp)
 
 {{hi:Mars}}
 

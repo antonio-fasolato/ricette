@@ -1,6 +1,6 @@
 # Poorman's ice cream
 
-![](img/Poormans-ice-cream.png)
+![](img/Poormans-ice-cream.webp)
 
 {{hi:Pomodoro}}
 

@@ -1,6 +1,6 @@
 # "School Kine" shortbread cookies
 
-![](img/School-Kine-shortbread-cookies.jpg)
+![](img/School-Kine-shortbread-cookies.webp)
 
 ## Ingredienti
 

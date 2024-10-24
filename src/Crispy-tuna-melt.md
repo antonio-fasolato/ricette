@@ -1,6 +1,6 @@
 # Crispy tuna melt
 
-![](img/Crispy-tuna-melt.jpg)
+![](img/Crispy-tuna-melt.webp)
 
 {{hi:Tonno}}
 {{hi:Capperi}}

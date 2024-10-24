@@ -1,6 +1,6 @@
 # Pollo ai peperoni
 
-![](img/Pollo-ai-peperoni.jpg)
+![](img/Pollo-ai-peperoni.webp)
 
 {{hi:Pollo}}
 {{hi:Peperoni}}

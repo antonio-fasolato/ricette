@@ -1,6 +1,6 @@
 # Pesto and Bocconcini Sheet Pan Focaccia
 
-![](img/Pesto-and-Bocconcini-Sheet-Pan-Focaccia.png)
+![](img/Pesto-and-Bocconcini-Sheet-Pan-Focaccia.webp)
 
 {{hi:Pomodoro}}
 

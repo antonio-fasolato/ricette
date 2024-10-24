@@ -1,6 +1,6 @@
 # Frittata estiva di verdure
 
-![](img/Frittata-estiva-di-verdure.jpg)
+![](img/Frittata-estiva-di-verdure.webp)
 
 {{hi:Zucchine}}
 {{hi:Asparagi}}

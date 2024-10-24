@@ -1,6 +1,6 @@
 # Cheesecake ai lamponi di Damiano Carrara
 
-![](img/Cheesecake-ai-lamponi.jpg)
+![](img/Cheesecake-ai-lamponi.webp)
 
 {{hi:Lamponi}}
 {{hi:Philadelphia}}

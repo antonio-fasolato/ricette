@@ -1,6 +1,6 @@
 # Pizzelle con cime di rapa olive e grana
 
-![](img/Pizzelle-con-cime-di-rapa-olive-e-grana.jpg)
+![](img/Pizzelle-con-cime-di-rapa-olive-e-grana.webp)
 
 {{hi:Cime di rapa}}
 {{hi:Olive}}
