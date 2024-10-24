@@ -1,6 +1,6 @@
 # Tagliolini paglia e fieno con champignon e speck
 
-![](img/Tagliolini-paglia-e-fieno-con-champignon-e-speck.jpg)
+![](img/Tagliolini-paglia-e-fieno-con-champignon-e-speck.webp)
 
 {{hi:Champignon}}
 {{hi:Funghi}}

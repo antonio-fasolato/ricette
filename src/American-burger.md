@@ -1,6 +1,6 @@
 # American burger
 
-![](img/American-burger.png)
+![](img/American-burger.webp)
 
 ## Ingredienti
 

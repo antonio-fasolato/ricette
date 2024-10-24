@@ -1,6 +1,6 @@
 # Roast di cavolfiore
 
-![](img/Roast-di-cavolfiore.jpg)
+![](img/Roast-di-cavolfiore.webp)
 
 {{hi:Cavlofiore}}
 

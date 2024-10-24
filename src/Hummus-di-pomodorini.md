@@ -1,6 +1,6 @@
 # Hummus di pomodorini
 
-![](img/Hummus-di-pomodorini.avif)
+![](img/Hummus-di-pomodorini.webp)
 
 {{hi:Pomodoro}}
 

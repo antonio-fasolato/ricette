@@ -1,6 +1,6 @@
 # Peperoni al forno coi capperi
 
-![](img/Peperoni-al-forno-coi-capperi.jpg)
+![](img/Peperoni-al-forno-coi-capperi.webp)
 
 {{hi:Peperoni}}
 

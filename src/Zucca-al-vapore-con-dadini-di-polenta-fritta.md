@@ -1,6 +1,6 @@
 # Zucca al vapore con dadini di polenta fritta
 
-![](img/Zucca-al-vapore-con-dadini-di-polenta-fritta.jpg)
+![](img/Zucca-al-vapore-con-dadini-di-polenta-fritta.webp)
 
 {{hi:Zucca}}
 {{hi:Polenta}}

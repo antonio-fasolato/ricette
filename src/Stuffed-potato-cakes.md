@@ -1,6 +1,6 @@
 # Stuffed potato cakes
 
-![](img/STUFFED-POTATO-CAKES.jpg)
+![](img/STUFFED-POTATO-CAKES.webp)
 
 {{hi:Patate}}
 {{hi:Funghi}}
@@ -48,4 +48,4 @@
 - If the potatoes are extremely floury I would recommend using less rice flour, e.g. just 1/4 cup. The dough shouldn't be too dry or crumbly.
 - Recipe makes about 8 potato cakes. Nutrition facts are for one potato cake.
 
-![](img/STUFFED-POTATO-CAKES-2.jpg)
+![](img/STUFFED-POTATO-CAKES-2.webp)

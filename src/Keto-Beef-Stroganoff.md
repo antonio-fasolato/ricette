@@ -1,6 +1,6 @@
 # Keto Beef Stroganoff
 
-![](img/Keto-Beef-Stroganoff.jpg)
+![](img/Keto-Beef-Stroganoff.webp)
 
 ## Ingredienti
 

@@ -1,6 +1,6 @@
 # Cestini di tonno, uova e verdure
 
-![](img/Cestini-di-tonno-uova-e-verdure.jpg)
+![](img/Cestini-di-tonno-uova-e-verdure.webp)
 
 {{hi:Tonno}}
 {{hi:Uovo}}

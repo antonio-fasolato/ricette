@@ -1,6 +1,6 @@
 # Filetto di maiale con funghi porcini
 
-![](img/Filetto-di-maiale-con-funghi-porcini.jpg)
+![](img/Filetto-di-maiale-con-funghi-porcini.webp)
 
 {{hi:Maiale}}
 {{hi:Funghi}}

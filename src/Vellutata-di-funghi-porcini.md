@@ -1,6 +1,6 @@
 # Vellutata di funghi porcini
 
-![](img/Vellutata-ai-funghi-porcini.avif)
+![](img/Vellutata-ai-funghi-porcini.webp)
 
 {{hi:Funghi}}
 

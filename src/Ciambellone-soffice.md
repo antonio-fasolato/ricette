@@ -1,6 +1,6 @@
 # Ciambellone soffice
 
-![](img/Ciambellone-soffice.jpg)
+![](img/Ciambellone-soffice.webp)
 
 ## Ingredienti
 

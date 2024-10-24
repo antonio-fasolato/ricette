@@ -1,6 +1,6 @@
 # Crostata di ricotta
 
-![](img/crostata-di-ricotta.jpg)
+![](img/crostata-di-ricotta.webp)
 
 {{hi:Ricotta}}
 

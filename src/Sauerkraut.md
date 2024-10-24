@@ -1,6 +1,6 @@
 # Sauerkraut
 
-![](img/Sauerkraut.jpg)
+![](img/Sauerkraut.webp)
 
 {{hi:Cappuccio}}
 

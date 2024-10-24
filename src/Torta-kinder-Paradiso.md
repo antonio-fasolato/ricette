@@ -1,6 +1,6 @@
 # Torta kinder Paradiso
 
-![](img/Torta-kinder-paradiso.jpg)
+![](img/Torta-kinder-paradiso.webp)
 
 ## Ingredienti
 

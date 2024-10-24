@@ -1,6 +1,6 @@
 # Honeycomb brittle
 
-![](img/Honeycomb-brittle.jpg)
+![](img/Honeycomb-brittle.webp)
 
 {{hi:Miele}}
 

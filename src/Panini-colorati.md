@@ -1,6 +1,6 @@
 # Panini colorati
 
-![](img/Panini-colorati.jpg)
+![](img/Panini-colorati.webp)
 
 {{hi:Pomodoro}}
 
@@ -44,36 +44,36 @@
 1. Quando tutti e tre gli impasti saranno raddoppiati di volume (19), riprendeteli e iniziate a stendere quello verde a mano, per creare un filoncino (20), dividetelo in pezzetti da 30 g l'uno con un tarocco (21) e dategli una forma rotonda con i palmi delle mani o roteandolo sul piano di lavoro (22). Ponete i panini man a mano su un vassoio (23) e coprite con pellicola trasparente: dovranno lievitare ancora 30 minuti in forno spento con luce accesa. Proseguite allo stesso modo per tutti gli impasti (24).
 1. Quando i panini colorati saranno lievitati, togliete la pellicola e poneteli su una leccarda foderata con carta da forno; spennellateli con poco latte tiepido (25) quindi cuoceteli in forno statico preriscaldato a 200° per 14-15 minuti (180° per 10 minuti circa se forno ventilato; potete cuocerne 2-3 per verificare meglio tempi e temperatura in questo caso). Una volta cotti, sfornate i panini colorati fateli raffreddare su una gratella prima di farcirli a piacere e servirli!
 
-![](img/Panini-colorati-01.jpg)
+![](img/Panini-colorati-01.webp)
 
 ---
 
-![](img/Panini-colorati-02.jpg)
+![](img/Panini-colorati-02.webp)
 
 ---
 
-![](img/Panini-colorati-03.jpg)
+![](img/Panini-colorati-03.webp)
 
 ---
 
-![](img/Panini-colorati-04.jpg)
+![](img/Panini-colorati-04.webp)
 
 ---
 
-![](img/Panini-colorati-05.jpg)
+![](img/Panini-colorati-05.webp)
 
 ---
 
-![](img/Panini-colorati-06.jpg)
+![](img/Panini-colorati-06.webp)
 
 ---
 
-![](img/Panini-colorati-07.jpg)
+![](img/Panini-colorati-07.webp)
 
 ---
 
-![](img/Panini-colorati-08.jpg)
+![](img/Panini-colorati-08.webp)
 
 ---
 
-![](img/Panini-colorati-09.jpg)
+![](img/Panini-colorati-09.webp)

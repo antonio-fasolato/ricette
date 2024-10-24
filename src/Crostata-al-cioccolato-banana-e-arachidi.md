@@ -1,6 +1,6 @@
 # Crostata al cioccolato banana e arachidi
 
-![](img/Crostata-al-cioccolato-banana-e-arachidi.jpg)
+![](img/Crostata-al-cioccolato-banana-e-arachidi.webp)
 
 {{hi:Burro di arachidi}}
 
@@ -47,6 +47,6 @@
 
 
 
-![](img/Crostata-al-cioccolato-banana-e-arachidi-AB.jpg)
+![](img/Crostata-al-cioccolato-banana-e-arachidi-AB.webp)
 
-![](img/Crostata-al-cioccolato-banana-e-arachidi-CE.jpg)
+![](img/Crostata-al-cioccolato-banana-e-arachidi-CE.webp)

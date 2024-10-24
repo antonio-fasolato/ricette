@@ -1,6 +1,6 @@
 # Crema con lamponi\index{Lamponi} e sbrisolona
 
-![](img/Crema-con-lamponi-e-sbrisolona.jpg)
+![](img/Crema-con-lamponi-e-sbrisolona.webp)
 
 {{hi:Lamponi}}
 {{hi:Sbrisolona}}

@@ -1,6 +1,6 @@
 # Carote gratinate al forno
 
-![](img/Carote-gratinate-al-forno.jpg)
+![](img/Carote-gratinate-al-forno.webp)
 
 {{hi:Carote}}
 

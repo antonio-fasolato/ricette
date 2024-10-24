@@ -1,6 +1,6 @@
 # Hash browns
 
-![](img/Hashbrowns.jpg)
+![](img/Hashbrowns.webp)
 
 {{hi:Patate}}
 {{hi:Cipolla}}

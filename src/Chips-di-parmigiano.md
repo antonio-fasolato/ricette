@@ -1,6 +1,6 @@
 # Chips di parmigiano
 
-![](img/chips-di-parmigiano.jpg)
+![](img/chips-di-parmigiano.webp)
 
 ## Ingredienti
 

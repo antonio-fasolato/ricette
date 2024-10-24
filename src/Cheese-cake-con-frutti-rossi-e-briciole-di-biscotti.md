@@ -1,6 +1,6 @@
 # Cheese cake con frutti rossi e briciole di biscotti
 
-![](img/Cheese-cake-ai-frutti-rossi.jpg)
+![](img/Cheese-cake-ai-frutti-rossi.webp)
 
 {{hi:Philadelphia}}
 

@@ -2,8 +2,6 @@
 
 {{hi:Lievito di birra}}
 
-![](img/.jpg)
-
 ## Ingredienti
 
 | Ingredienti                  |

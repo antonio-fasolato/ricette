@@ -1,6 +1,6 @@
 # Panino con spuma di tonno
 
-![](img/Panino-con-spuma-di-tonno.png)
+![](img/Panino-con-spuma-di-tonno.webp)
 
 {{hi:Tonno}}
 {{hi:Pomodoro}}

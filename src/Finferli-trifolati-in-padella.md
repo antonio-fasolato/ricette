@@ -1,6 +1,6 @@
 # Finferli trifolati in padella
 
-![](img/Finferli-trifolati-in-padella.jpg)
+![](img/Finferli-trifolati-in-padella.webp)
 
 {{hi:Funghi}}
 

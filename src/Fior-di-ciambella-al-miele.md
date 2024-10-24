@@ -1,6 +1,6 @@
 # Fior di ciambella al miele
 
-![](img/Fior-di-ciambella-al-miele.jpg)
+![](img/Fior-di-ciambella-al-miele.webp)
 
 {{hi:Miele}}
 

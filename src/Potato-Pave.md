@@ -1,6 +1,6 @@
 # Potato Pavé
 
-![](img/Potato-Pave.jpg)
+![](img/Potato-Pave.webp)
 
 ## Ingredienti
 

@@ -1,6 +1,6 @@
 # Rosti di cipolle e carote
 
-![](img/Rosti-di-cipolle-e-carote.jpg)
+![](img/Rosti-di-cipolle-e-carote.webp)
 
 {{hi:Cipolla}}
 {{hi:Carote}}

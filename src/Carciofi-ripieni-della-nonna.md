@@ -1,6 +1,6 @@
 # Carciofi ripieni della nonna
 
-![](img/Carciofi-ripieni-della-nonna.png)
+![](img/Carciofi-ripieni-della-nonna.webp)
 
 {{hi:Carciofi}}
 {{hi:Prosciutto}}

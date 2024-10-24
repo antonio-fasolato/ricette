@@ -1,6 +1,6 @@
 # Spezzatino di vitello con cipolline in agrodolce e scorze d'arancia
 
-![](img/Spezzatino-di-vitello-con-cipolline.jpg)
+![](img/Spezzatino-di-vitello-con-cipolline.webp)
 
 {{hi:Vitello}}
 {{hi:Cipolline in agrodolce}}

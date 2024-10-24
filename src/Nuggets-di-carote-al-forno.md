@@ -1,6 +1,6 @@
 # Nuggets di carote al forno
 
-![](img/Nuggets-di-carote-al-forno.jpg)
+![](img/Nuggets-di-carote-al-forno.webp)
 
 {{hi:Carote}}
 {{hi:Ceci}}

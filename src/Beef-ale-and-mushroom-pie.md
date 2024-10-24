@@ -1,6 +1,6 @@
 # Beef ale and mushroom pie
 
-![](img/Beef-ale-and-mushroom-pie.jpg)
+![](img/Beef-ale-and-mushroom-pie.webp)
 
 {{hi:manzo}}
 {{hi:Birra}}

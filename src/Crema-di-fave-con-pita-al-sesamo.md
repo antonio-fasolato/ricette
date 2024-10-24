@@ -1,6 +1,6 @@
 # Crema di fave con pita al sesamo
 
-![](img/Crema-di-fave-con-pita-al-sesamo.jpg)
+![](img/Crema-di-fave-con-pita-al-sesamo.webp)
 
 {{hi:Fave}}
 

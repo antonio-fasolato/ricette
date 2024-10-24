@@ -1,6 +1,6 @@
 # Spiedini di pane alle erbe
 
-![](img/Spiedini-di-pane-alle-erbe.jpg)
+![](img/Spiedini-di-pane-alle-erbe.webp)
 
 {{hi:Pane raffermo}}
 

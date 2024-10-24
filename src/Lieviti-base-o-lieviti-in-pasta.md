@@ -1,6 +1,6 @@
 # Lieviti base o lieviti in pasta
 
-![](img/Lieviti-base01.jpg)
+![](img/Lieviti-base01.webp)
 
 I lieviti in pasta, ovvero i preimpasti già fermentati che si aggiungono a quello principale secondo il metodo detto "impasto indiretto", vengono preparati da 24 ore a mezz'ora prima della lavorazione. 
 La piccola quantità di lievito che si utilizza per la loro preparazione fa sì che tutto l'impasto si trasformi in lievito, e che l'impasto principale non conservi traccia del sapore dell'originale lievito di birra. Vi sono almeno tre tipi di lievito, differenti per quanto riguarda il tempo di fermentazione a cui vengono sottoposti prima di essere incorporati nell'impasto principale. Tutti e tre fermentano in un luogo controllato, di solito una teglia chiusa da un coperchio, oppure sul tagliere coperti da un'ampia ciotola. Il "lievitino" riposa

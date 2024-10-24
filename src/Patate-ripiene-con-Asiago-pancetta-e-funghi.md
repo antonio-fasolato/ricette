@@ -1,6 +1,6 @@
 # Patate ripiene con Asiago pancetta e funghi
 
-![](img/Patate-ripiene-con-Asiago-pancetta-e-funghi.jpg)
+![](img/Patate-ripiene-con-Asiago-pancetta-e-funghi.webp)
 
 {{hi:Patate}}
 {{hi:Asiago}}

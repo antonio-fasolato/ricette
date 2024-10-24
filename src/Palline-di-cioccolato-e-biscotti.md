@@ -1,6 +1,6 @@
 # Palline di cioccolato e biscotti
 
-![](img/Palline-di-cioccolato-e-biscotti.jpg)
+![](img/Palline-di-cioccolato-e-biscotti.webp)
 
 {{hi:Biscotti}}
 {{hi:Cacao}}

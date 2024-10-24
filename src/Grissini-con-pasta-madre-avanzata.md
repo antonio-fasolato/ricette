@@ -1,6 +1,6 @@
 # Grissini con pasta madre avanzata
 
-![](img/Grissini-con-pasta-madre-avanzata.jpg)
+![](img/Grissini-con-pasta-madre-avanzata.webp)
 
 ## Ingredienti
 

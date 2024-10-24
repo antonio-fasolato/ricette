@@ -2,7 +2,7 @@
 
 > [https://ricette.giallozafferano.it/Mini-cheesecake.html](https://ricette.giallozafferano.it/Mini-cheesecake.html)
 
-![](img/Mini-cheesecake.jpg)
+![](img/Mini-cheesecake.webp)
 
 {{hi:Biscotti}}
 {{hi:Philadelphia}}

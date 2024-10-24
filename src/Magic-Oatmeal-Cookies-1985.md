@@ -1,6 +1,6 @@
 # Magic Oatmeal Cookies: 1985
 
-![](img/Magic-Oatmeal-Cookies-1985.png)
+![](img/Magic-Oatmeal-Cookies-1985.webp)
 
 ## Ingredienti
 

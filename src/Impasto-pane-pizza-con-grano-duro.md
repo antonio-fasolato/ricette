@@ -1,6 +1,6 @@
 # Impasto pane/pizza con grano duro
 
-![](img/Impasto-pane-pizza-con-grano-duro.jpg)
+![](img/Impasto-pane-pizza-con-grano-duro.webp)
 
 ## Ingredienti
 

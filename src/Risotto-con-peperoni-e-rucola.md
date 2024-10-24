@@ -1,6 +1,6 @@
 # Risotto con peperoni e rucola
 
-![](img/Risotto-con-peperoni-e-rucola.jpg)
+![](img/Risotto-con-peperoni-e-rucola.webp)
 
 {{hi:Peperone}}
 {{hi:Rucola}}

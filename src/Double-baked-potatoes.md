@@ -1,6 +1,6 @@
 # Double-baked potatoes
 
-![](img/Double-baked-potatoes.jpg)
+![](img/Double-baked-potatoes.webp)
 
 {{hi:Patate}}
 {{hi:Asiago}}
