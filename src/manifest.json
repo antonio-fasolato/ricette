@@ -1,17 +1,17 @@
 {
-  "theme_color": "#8936FF",
-  "background_color": "#2EC6FE",
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
   "icons": [
     {
       "purpose": "maskable",
       "sizes": "512x512",
-      "src": "theme/icon512_maskable.png",
+      "src": "img/icon512_maskable.png",
       "type": "image/png"
     },
     {
       "purpose": "any",
       "sizes": "512x512",
-      "src": "theme/icon512_rounded.png",
+      "src": "img/icon512_rounded.png",
       "type": "image/png"
     }
   ],
@@ -22,5 +22,21 @@
   "name": "Ricette",
   "short_name": "Ricette",
   "start_url": "https://antonio-fasolato.github.io/ricette",
-  "scope": "https://antonio-fasolato.github.io/ricette"
+  "scope": "https://antonio-fasolato.github.io/ricette",
+  "screenshots": [
+    {
+      "src": "img/screenshot-wide.png",
+      "sizes": "1919x908",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Homescreen of Ricette"
+    },
+    {
+      "src": "img/screenshot-narrow.png",
+      "sizes": "960x913",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Sampre recipe"
+    }
+  ]
 }
