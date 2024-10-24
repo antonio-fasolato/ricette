@@ -1,6 +1,6 @@
 # Zucca in saor
 
-![](img/Zucca-in-saor.jpg)
+![](img/Zucca-in-saor.webp)
 
 {{hi:Zucca}}
 {{hi:Uvetta}}

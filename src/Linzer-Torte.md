@@ -1,6 +1,6 @@
 # Linzer Torte
 
-![](img/Linzer-Torte.avif)
+![](img/Linzer-Torte.webp)
 
 ## Ingredienti
 
@@ -40,18 +40,18 @@
 1. Sfornate e lasciate intiepidire prima di sformare la vostra Linzer torte. 
 1. Una volta fredda decorate con poco zucchero a velo
 
-![](img/linzer-torte_1.avif)
-![](img/linzer-torte_2.avif)
-![](img/linzer-torte_3.avif)
-![](img/linzer-torte_4.avif)
-![](img/linzer-torte_5.avif)
-![](img/linzer-torte_6.avif)
-![](img/linzer-torte_7.avif)
-![](img/linzer-torte_8.avif)
-![](img/linzer-torte_9.avif)
-![](img/linzer-torte_10.avif)
-![](img/linzer-torte_11.avif)
-![](img/linzer-torte_12.avif)
-![](img/linzer-torte_13.avif)
-![](img/linzer-torte_14.avif)
-![](img/linzer-torte_15.avif)
+![](img/linzer-torte_1.webp)
+![](img/linzer-torte_2.webp)
+![](img/linzer-torte_3.webp)
+![](img/linzer-torte_4.webp)
+![](img/linzer-torte_5.webp)
+![](img/linzer-torte_6.webp)
+![](img/linzer-torte_7.webp)
+![](img/linzer-torte_8.webp)
+![](img/linzer-torte_9.webp)
+![](img/linzer-torte_10.webp)
+![](img/linzer-torte_11.webp)
+![](img/linzer-torte_12.webp)
+![](img/linzer-torte_13.webp)
+![](img/linzer-torte_14.webp)
+![](img/linzer-torte_15.webp)

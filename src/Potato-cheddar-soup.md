@@ -1,6 +1,6 @@
 # Potato cheddar soup
 
-![](img/Potato-cheddar-soup.jpg)
+![](img/Potato-cheddar-soup.webp)
 
 {{hi:Patate}}
 {{hi:Cheddar}}

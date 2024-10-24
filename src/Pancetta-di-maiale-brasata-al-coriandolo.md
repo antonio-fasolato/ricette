@@ -1,6 +1,6 @@
 # Pancetta di maiale brasata al coriandolo
 
-![](img/Pancetta-di-maiale-brasata-al-coriandolo.jpg)
+![](img/Pancetta-di-maiale-brasata-al-coriandolo.webp)
 
 {{hi:Pancetta fresca}}
 
@@ -23,6 +23,6 @@
 1. A fine cottura, trasferite la pancetta su una placca da forno con il lato della cotenna verso l'alto e infornate a 220 °C per 10 minuti, quindi accendete il grill e fate cuocere per pochi minuti finché la cotenna non sarà dorata e croccante (foto H).
 1. Intanto rimettete la casseruola sul fuoco e lasciate ridurre il fondo di cottura;  aggiustate di sale e di pepe. Sfornate la pancetta e trasferitela in un piatto da portata, quindi cospargete con il fondo di cottura ridotto e servite, tagliata a fette.
 
-![](img/Pancetta-di-maiale-brasata-al-coriandolo-AD.jpg)
+![](img/Pancetta-di-maiale-brasata-al-coriandolo-AD.webp)
 
-![](img/Pancetta-di-maiale-brasata-al-coriandolo-EH.jpg)
+![](img/Pancetta-di-maiale-brasata-al-coriandolo-EH.webp)

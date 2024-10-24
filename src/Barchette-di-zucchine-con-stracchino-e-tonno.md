@@ -1,6 +1,6 @@
 # Barchette di zucchine con stracchino e tonno
 
-![](img/Barchette-di-zucchine-con-stracchino-e-tonno.jpg)
+![](img/Barchette-di-zucchine-con-stracchino-e-tonno.webp)
 
 {{hi:Zucchine}}
 {{hi:Stracchino}}

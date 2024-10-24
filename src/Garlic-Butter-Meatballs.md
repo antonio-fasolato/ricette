@@ -1,6 +1,6 @@
 # Garlic Butter Meatballs
 
-![](img/Garlic-Butter-Meatballs.jpg)
+![](img/Garlic-Butter-Meatballs.webp)
 
 ## Ingredienti
 

@@ -1,6 +1,6 @@
 # Crema al latte
 
-![](img/Crema-al-latte.jpg)
+![](img/Crema-al-latte.webp)
 
 {{hi:Latte condensato}}
 

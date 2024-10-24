@@ -1,6 +1,6 @@
 # Pasta con crema di peperoni e ricotta
 
-![](img/Pasta-con-crema-di-peperoni-e-ricotta.jpg)
+![](img/Pasta-con-crema-di-peperoni-e-ricotta.webp)
 
 {{hi:Peperone}}
 {{hi:Ricotta}}

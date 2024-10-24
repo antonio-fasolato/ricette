@@ -1,6 +1,6 @@
 # Cupcake
 
-![](img/cupcake.jpg)
+![](img/cupcake.webp)
 
 ## Ingredienti
 

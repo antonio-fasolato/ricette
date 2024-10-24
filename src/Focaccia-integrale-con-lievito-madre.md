@@ -1,6 +1,6 @@
 # Focaccia integrale con lievito madre
 
-![](img/Focaccia-integrale-con-lievito-madre.jpg)
+![](img/Focaccia-integrale-con-lievito-madre.webp)
 
 ## Ingredienti
 

@@ -1,6 +1,6 @@
 # Sugo di pomodoro fresco al basilico
 
-![](img/Sugo_di_pomodoro_fresco_al_basilico.jpg)
+![](img/Sugo_di_pomodoro_fresco_al_basilico.webp)
 
 ## Ingredienti
 

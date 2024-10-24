@@ -1,6 +1,6 @@
 # Crema di fave, cicoria e noci
 
-![](img/Crema-di-fave-cicoria-e-noci.jpg)
+![](img/Crema-di-fave-cicoria-e-noci.webp)
 
 {{hi:Fave secche}}
 {{hi:Cicoria}}

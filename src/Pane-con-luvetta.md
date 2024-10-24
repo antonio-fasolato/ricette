@@ -1,6 +1,6 @@
 # Pane con l'uvetta
 
-![](img/Pane-con-uvetta.jpg)
+![](img/Pane-con-uvetta.webp)
 
 {{hi:Uva passa}}
 

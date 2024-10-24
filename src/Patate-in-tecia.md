@@ -1,6 +1,6 @@
 # Patate in tecia
 
-![](img/Patate-in-tecia.jpg)
+![](img/Patate-in-tecia.webp)
 
 {{hi:Patate}}
 

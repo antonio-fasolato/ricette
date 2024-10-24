@@ -1,6 +1,6 @@
 # Nodini di parmigiano
 
-![](img/Nodini-di-parmigiano.jpg)
+![](img/Nodini-di-parmigiano.webp)
 
 {{hi:Parmigiano}}
 

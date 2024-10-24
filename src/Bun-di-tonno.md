@@ -1,6 +1,6 @@
 # Bun di tonno
 
-![](img/Bun-di-tonno.jpg)
+![](img/Bun-di-tonno.webp)
 
 {{hi:Tonno}}
 {{hi:Mozzarella}}

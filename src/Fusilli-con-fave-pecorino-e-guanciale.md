@@ -1,6 +1,6 @@
 # Fusilli con fave pecorino e guanciale
 
-![](img/Fusilli-con-fave-pecorino-e-guanciale.png)
+![](img/Fusilli-con-fave-pecorino-e-guanciale.webp)
 
 {{hi:Fave}}
 {{hi:Pecorino}}

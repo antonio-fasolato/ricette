@@ -1,6 +1,6 @@
 # Risotto alle ortiche
 
-![](img/Risotto-alle-ortiche.jpg)
+![](img/Risotto-alle-ortiche.webp)
 
 ## Ingredienti
 

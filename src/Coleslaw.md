@@ -1,6 +1,6 @@
 # Coleslaw
 
-![](img/Coleslaw.jpg)
+![](img/Coleslaw.webp)
 
 {{hi:Cappuccio}}
 {{hi:Carote}}

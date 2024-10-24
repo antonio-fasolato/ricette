@@ -1,6 +1,6 @@
 # Tartellette con crema al limone
 
-![](img/Tartellette-con-crema-al-limone.jpg)
+![](img/Tartellette-con-crema-al-limone.webp)
 
 {{hi:Limone}}
 

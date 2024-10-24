@@ -1,6 +1,6 @@
 # Trecce Dolci
 
-![](img/Trecce-dolci.jpg)
+![](img/Trecce-dolci.webp)
 
 [Sorgente](https://blog.giallozafferano.it/ricettepanedolci/ricetta-trecce-dolci/)
 
@@ -25,8 +25,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-01.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-02.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-01.webp"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-02.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -36,8 +36,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-03.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-04.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-03.webp"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-04.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -46,8 +46,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-05.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-06.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-05.webp"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-06.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -55,8 +55,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-07.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-08.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-07.webp"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-08.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -64,8 +64,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-09.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-10.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-09.webp"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-10.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -74,8 +74,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-11.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-12.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-11.webp"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-12.webp"/></td>
   </tr></tbody>
 </table>
 
@@ -86,8 +86,8 @@
 
 <table class="tg"><tbody>
   <tr>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-13.jpg"/></td>
-    <td class="tg-0lax"><img src="img/Trecce-dolci-14.jpg"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-13.webp"/></td>
+    <td class="tg-0lax"><img src="img/Trecce-dolci-14.webp"/></td>
   </tr></tbody>
 </table>
 

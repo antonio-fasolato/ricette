@@ -1,6 +1,6 @@
 # Panini con gocce di cioccolato
 
-![](img/Panini-con-gocce-di-cioccolato.avif)
+![](img/Panini-con-gocce-di-cioccolato.webp)
 
 ## Ingredienti
 

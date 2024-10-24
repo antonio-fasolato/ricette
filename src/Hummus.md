@@ -1,6 +1,6 @@
 # Hummus
 
-![](img/Hummus.png)
+![](img/Hummus.webp)
 
 {{hi:Ceci}}
 {{hi:Tahina}}

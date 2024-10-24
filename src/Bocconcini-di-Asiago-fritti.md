@@ -1,6 +1,6 @@
 # Bocconcini di Asiago fritti
 
-![](img/Bocconcini-di-Asiago-fritti.jpg)
+![](img/Bocconcini-di-Asiago-fritti.webp)
 
 {{hi:Asiago}}
 

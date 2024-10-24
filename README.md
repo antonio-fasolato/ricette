@@ -7,7 +7,7 @@
 ## Template
 
 ```
-![](img/.jpg)
+![](img/.webp)
 
 {{hi:Pomodoro}}
 
@@ -82,7 +82,7 @@ Le permission policies del registry devono essere impostate come segue:
 }
 ```
 
-![](src/img/01.png)
+![](src/img/01.webp)
 
 ### CodeBuild
 

@@ -1,6 +1,6 @@
 # Chocolate custard per torte
 
-![](img/Choccolate-tart.png)
+![](img/Choccolate-tart.webp)
 
 {{hi:Pomodoro}}
 

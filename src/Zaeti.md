@@ -1,6 +1,6 @@
 # Zaeti
 
-![](img/Zaeti.jpg)
+![](img/Zaeti.webp)
 
 {{hi:Farina di mais}}
 {{hi:Uva passa}}

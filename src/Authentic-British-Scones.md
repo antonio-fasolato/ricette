@@ -1,6 +1,6 @@
 # Authentic British Scones
 
-![](img/Authentic-British-Scones.jpg)
+![](img/Authentic-British-Scones.webp)
 
 ## Ingredienti
 

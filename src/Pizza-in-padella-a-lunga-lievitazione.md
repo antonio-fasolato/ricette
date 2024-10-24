@@ -1,6 +1,6 @@
 # Pizza in padella a lunga lievitazione
 
-![](img/Pizza-in-padella-a-lunga-lievitazione.jpg)
+![](img/Pizza-in-padella-a-lunga-lievitazione.webp)
 
 ## Ingredienti
 

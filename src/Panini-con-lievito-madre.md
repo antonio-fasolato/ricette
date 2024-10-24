@@ -1,6 +1,6 @@
 # Panini con lievito madre
 
-![](img/Panini-con-lievito-madre.jpg)
+![](img/Panini-con-lievito-madre.webp)
 
 ## Ingredienti
 

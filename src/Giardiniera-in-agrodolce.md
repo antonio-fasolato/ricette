@@ -1,7 +1,5 @@
 # Giardiniera in agrodolce
 
-![](img/.jpg)
-
 ## Ingredienti
 
 | Ingredienti                  | Ingredienti             |

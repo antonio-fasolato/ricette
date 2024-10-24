@@ -1,6 +1,6 @@
 # Cheese scones
 
-![](img/Cheese-scones.jpg)
+![](img/Cheese-scones.webp)
 
 {{hi:Asiago}}
 {{hi:Cheddar}}

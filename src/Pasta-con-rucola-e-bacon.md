@@ -1,6 +1,6 @@
 # Pasta con rucola e bacon
 
-![](img/Pasta-con-rucola-e-bacon.png)
+![](img/Pasta-con-rucola-e-bacon.webp)
 
 {{hi:Rucola}}
 {{hi:Bacon}}

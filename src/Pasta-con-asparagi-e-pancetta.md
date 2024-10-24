@@ -1,6 +1,6 @@
 # Pasta con asparagi e pancetta
 
-![](img/Pasta-con-asparagi-e-pancetta.jpg)
+![](img/Pasta-con-asparagi-e-pancetta.webp)
 
 {{hi:Asparagi}}
 {{hi:Pancetta}}

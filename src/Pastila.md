@@ -1,6 +1,6 @@
 # Pastila
 
-![](img/Pastila.jpg)
+![](img/Pastila.webp)
 
 {{hi:Mele}}
 

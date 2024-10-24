@@ -1,6 +1,6 @@
 # Crostoni tostati al formaggio e pancetta
 
-![](img/Crostoni-tostati-al-formaggio-e-pancetta.jpg)
+![](img/Crostoni-tostati-al-formaggio-e-pancetta.webp)
 
 {{hi:Pancetta}}
 {{hi:Fontina}}

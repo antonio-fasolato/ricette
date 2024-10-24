@@ -1,6 +1,6 @@
 # Cheesesteak Stuffed Peppers
 
-![](img/Cheesesteak-Stuffed-Peppers.jpg)
+![](img/Cheesesteak-Stuffed-Peppers.webp)
 
 ## Ingredienti
 

@@ -1,6 +1,6 @@
 # Crema al mascarpone con crumble e fragole
 
-![](img/Crema-al-mascarpone-con-crumble-e-fragole.jpg)
+![](img/Crema-al-mascarpone-con-crumble-e-fragole.webp)
 
 {{hi:Mascarpone}}
 {{hi:Fragole}}

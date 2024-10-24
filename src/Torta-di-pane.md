@@ -1,6 +1,6 @@
 # Torta di pane
 
-![](img/Torta-di-pane.jpg)
+![](img/Torta-di-pane.webp)
 
 {{hi:Pane raffermo}}
 
