@@ -16,6 +16,16 @@ npx workbox injectManifest workbox-config.js
 npx quick-serve book
 ```
 
+### Docker image
+
+Per lanciare il sito localmente con build di tutti i componenti:
+
+```bash
+docker build -t ricette .
+
+docker run --rm -ti -v $(pwd):/ricette -p12345:12345 ricette
+```
+
 ## Template
 
 ```
@@ -57,24 +67,3 @@ allowfullscreen></iframe>
 ## Indici
 
 `{{hi:Testo}}`
-
-## Docker image
-
-Per testare l'immagine docker di build:
-
-```bash
-docker build -t ricette-aws-build .
-
-docker run --rm -ti -v $(pwd):/ricette -v $(pwd)/book-out: ricette-aws-build bash
-```
-
-### Build dell'immagine docker e push in ECR
-
-```bash
-docker build -t ricette-aws-build .
-aws ecr get-login-password --region eu-south-1 | docker login --username AWS --password-stdin 820071945992.dkr.ecr.eu-south-1.amazonaws.com
-docker tag ricette-aws-build:latest 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:1.0
-docker tag ricette-aws-build:latest 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:latest
-docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:1.0
-docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:latest
-```
