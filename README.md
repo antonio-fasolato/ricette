@@ -3,6 +3,18 @@
 ## Plugin usati
 
 - https://github.com/daviddrysdale/mdbook-indexing
+- https://developer.chrome.com/docs/workbox
+- https://www.npmjs.com/package/quick-serve
+
+## Build locale
+
+Il processo di build prevede la generazione dei file html con mdbook, l'aggiunta delle librerie per la PWA e per comodita' l'avvio di un server htttp locale per testarlo, in pratica:
+
+```bash
+mdbook build
+npx workbox injectManifest workbox-config.js
+npx quick-serve book
+```
 
 ## Template
 
@@ -56,66 +68,6 @@ docker build -t ricette-aws-build .
 docker run --rm -ti -v $(pwd):/ricette -v $(pwd)/book-out: ricette-aws-build bash
 ```
 
-## AWS
-
-### ElasticContainerRegistry
-
-Le permission policies del registry devono essere impostate come segue:
-
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Sid": "AllowAccess",
-      "Effect": "Allow",
-      "Principal": {
-        "AWS": "arn:aws:iam::820071945992:root"
-      },
-      "Action": [
-        "ecr:BatchCheckLayerAvailability",
-        "ecr:BatchGetImage",
-        "ecr:GetDownloadUrlForLayer"
-      ]
-    }
-  ]
-}
-```
-
-![](src/img/01.webp)
-
-### CodeBuild
-
-La policy del progetto di compilazione deve avere una policy collegata fatta come segue (ovviamente l'ARN dipende dal repo ECR):
-
-```json
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Sid": "Statement1",
-            "Effect": "Allow",
-            "Action": [
-                "ecr:BatchCheckLayerAvailability",
-                "ecr:BatchGetImage",
-                "ecr:GetDownloadUrlForLayer"
-            ],
-            "Resource": [
-                "arn:aws:ecr:eu-south-1:820071945992:repository/ricette-builder"
-            ]
-        },
-        {
-            "Sid": "Statement2",
-            "Action": [
-                "codecommit:GitPull"
-            ],
-            "Resource": "*",
-            "Effect": "Allow"
-        }
-    ]
-}
-```
-
 ### Build dell'immagine docker e push in ECR
 
 ```bash
@@ -125,12 +77,4 @@ docker tag ricette-aws-build:latest 820071945992.dkr.ecr.eu-south-1.amazonaws.co
 docker tag ricette-aws-build:latest 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:latest
 docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:1.0
 docker push 820071945992.dkr.ecr.eu-south-1.amazonaws.com/ricette-builder:latest
-```
-
-
-
-```bash
-mdbook build
-npx workbox injectManifest workbox-config.js
-npx quick-serve book
 ```
