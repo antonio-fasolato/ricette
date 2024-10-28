@@ -132,6 +132,7 @@
     - [Lasagne al ragù bianco e zucchine](Lasagne-al-ragu-bianco-e-zucchine.md)
     - [Fusilli con fave pecorino e guanciale](Fusilli-con-fave-pecorino-e-guanciale.md)
     - [Pasta con rucola e bacon](Pasta-con-rucola-e-bacon.md)
+    - [Tagliatelle funghi castagne e salsicce](Tagliatelle-funghi-castagne-e-salsicce.md)
   - [Riso]()
     - [Crocchette filanti di champignon e asiago](Crocchette-filanti-di-champignon-e-asiago.md)
     - [Riso alla cantonese](Riso-alla-cantonese.md)
