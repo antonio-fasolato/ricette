@@ -12,4 +12,4 @@ echo "Injecting PWA code"
 npx workbox injectManifest workbox-config-docker.js
 
 echo "Starting webserver"
-npx quick-serve /book
+nginx -g 'daemon off;'

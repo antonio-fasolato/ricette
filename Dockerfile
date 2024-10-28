@@ -16,15 +16,16 @@
 
 FROM node:23-alpine3.19
 
-RUN apk add --no-cache tzdata bash rust cargo
-
-RUN ln -s /usr/share/zoneinfo/Europe/Rome /etc/localtime
-
+RUN apk add --no-cache tzdata bash rust cargo nginx
 RUN cargo install --version 0.4.40 mdbook
 RUN cargo install mdbook-indexing
+
+RUN ln -s /usr/share/zoneinfo/Europe/Rome /etc/localtime
+RUN ln -sf /dev/stdout /var/log/nginx/access.log && ln -sf /dev/stderr /var/log/nginx/error.log
+COPY docker/nginx.conf /etc/nginx/http.d/default.conf
 
 RUN mkdir /ricette | true
 RUN mkdir /book | true
 WORKDIR /ricette
 
-ENTRYPOINT ["/ricette/run-in-docker.sh"]
+ENTRYPOINT ["/ricette/docker/run-in-docker.sh"]
