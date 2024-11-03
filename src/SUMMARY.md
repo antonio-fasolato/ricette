@@ -81,6 +81,14 @@
 - [Varie]()
   - [Sostituti del latticello](Sostituti-del-latticello.md)
 
+# Salse
+
+- [Salsa Tartara](Salsa-tartara.md)
+- [Salsa rosa (o cocktail)](Salsa-rosa.md)
+- [Salsa di peperoni](Salsa-di-peperoni.md)
+- [Salsa tonnata](Salsa-tonnata.md)
+- [Salsa verde](Salsa-verde.md)
+
 # Pane
 
 - [Lieviti e tecniche]()
