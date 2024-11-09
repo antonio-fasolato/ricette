@@ -221,5 +221,6 @@
   - [Pesto and Bocconcini Sheet Pan Focaccia](Pesto-and-Bocconcini-Sheet-Pan-Focaccia.md)
   - [Potato, Gorgonzola and Rosemary Sheet Pan Focaccia](Potato-Gorgonzola-and-Rosemary-Sheet-Pan-Focaccia.md)
   - [Focaccia (Andy cooks)](Focaccia-andy-cooks.md)
+  - [Cofanetti Brioche alla Nutella](Cofanetti-Brioche-alla-Nutella.md)
 
 - [Index](Indexing.md)
