@@ -120,7 +120,9 @@
 
 # Ramen
 
-- [Brodo di ossa di manzo](Brodo-di-ossa-di-manzo.md)
+- [Tecnica]()
+  - [Brodo di ossa di manzo](Brodo-di-ossa-di-manzo.md)
+- [Ramen di Andy Cooks](Ramen-di-Andy-Cooks.md)
 
 # Da provare
 
@@ -133,6 +135,7 @@
   - [Crema di fave con pita al sesamo](Crema-di-fave-con-pita-al-sesamo.md)
   - [Spiedini di pane alle erbe](Spiedini-di-pane-alle-erbe.md)
   - [Hummus di pomodorini](Hummus-di-pomodorini.md)
+  - [Crostini di pane fritti](Crostini-di-pane-fritti.md)
 - [Primi]()
   - [Pasta]()
     - [Tagliolini paglia e fieno con champignon e speck](Tagliolini-paglia-e-fieno-con-champignon-e-speck.md)
@@ -214,6 +217,7 @@
   - [Trecce Dolci](Trecce-Dolci.md)
   - [Crema caffè](Crema-caffe.md)
   - [Mousse alla ricotta e al caffè](Mousse-alla-ricotta-e-al-caffe.md)
+  - [Biscotti Ripieni Ricotta e Nutella](Biscotti-Ripieni-Ricotta-e-Nutella.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)
