@@ -102,6 +102,7 @@
     - [Panini con lievito madre](Panini-con-lievito-madre.md)
     - [Con l'avanzo di rinfresco]()
       - [Grissini con pasta madre avanzata](Grissini-con-pasta-madre-avanzata.md)
+    - [Varie](Lieviti-e-tecniche-varie.md)
 - [Lievito secco o istantaneo]()
   - [Pane con l'uvetta](Pane-con-luvetta.md)
   - [Pane in padella (impasto diretto)](Pane.in.padella.md)
