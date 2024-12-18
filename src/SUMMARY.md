@@ -193,6 +193,7 @@
     - [Potato Latkes](Potato-Latkes.md)
     - [Nuggets di carote al forno](Nuggets-di-carote-al-forno.md)
     - [Carote gratinate al forno](Carote-gratinate-al-forno.md)
+    - [Patate arroste nello strutto](Patate-arroste-nello-strutto.md)
   - [Varie]()
     - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 - [Dolci]()
