@@ -46,6 +46,7 @@
     - [Ricetta 1](Patate-fritte-1.md)
     - [Ricetta stile Mc Donalds](Patate-fritte-2.md)
   - [Peperoni al forno coi capperi](Peperoni-al-forno-coi-capperi.md)
+  - [Patate arroste nello strutto](Patate-arroste-nello-strutto.md)
 
 # Dolci
 
@@ -170,6 +171,7 @@
   - [Pesce]()
   - [Formaggio]()
     - [Bocconcini di Asiago fritti](Bocconcini-di-Asiago-fritti.md)
+    - [Mozzarella in carrozza al forno](Mozzarella-in-carrozza-al-forno.md)
   - [Verdure]()
     - [Gratin con porri e patate](Gratin-con-porri-e-patate.md)
     - [Patate ripiene con Asiago pancetta e funghi](Patate-ripiene-con-Asiago-pancetta-e-funghi.md)
@@ -193,7 +195,6 @@
     - [Potato Latkes](Potato-Latkes.md)
     - [Nuggets di carote al forno](Nuggets-di-carote-al-forno.md)
     - [Carote gratinate al forno](Carote-gratinate-al-forno.md)
-    - [Patate arroste nello strutto](Patate-arroste-nello-strutto.md)
   - [Varie]()
     - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 - [Dolci]()
@@ -219,6 +220,7 @@
   - [Crema caffè](Crema-caffe.md)
   - [Mousse alla ricotta e al caffè](Mousse-alla-ricotta-e-al-caffe.md)
   - [Biscotti Ripieni Ricotta e Nutella](Biscotti-Ripieni-Ricotta-e-Nutella.md)
+  - [Toll House Inn chocolate chip cookies (1938)](Toll-House-Inn-chocolate-chip-cookies.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)
