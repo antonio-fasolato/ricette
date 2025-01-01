@@ -47,6 +47,7 @@
     - [Ricetta stile Mc Donalds](Patate-fritte-2.md)
   - [Peperoni al forno coi capperi](Peperoni-al-forno-coi-capperi.md)
   - [Patate arroste nello strutto](Patate-arroste-nello-strutto.md)
+  - [Salvia fritta](salvia-fritta.md)
 
 # Dolci
 
@@ -195,6 +196,7 @@
     - [Potato Latkes](Potato-Latkes.md)
     - [Nuggets di carote al forno](Nuggets-di-carote-al-forno.md)
     - [Carote gratinate al forno](Carote-gratinate-al-forno.md)
+    - [Fagioli in umido in pentola a pressione](Fagioli-in-umido-in-pentola-a-pressione.md)
   - [Varie]()
     - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 - [Dolci]()
