@@ -8,7 +8,6 @@ title = "Ricette"
 [output.html]
 additional-css = ["./theme/css/addendum.css"]
 mathjax-support = true
-additional-js=["register-sw.js"]
 
 [preprocessor.indexing]
 use_chapter_names=true

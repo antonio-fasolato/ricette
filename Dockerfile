@@ -28,4 +28,4 @@ RUN mkdir /ricette | true
 RUN mkdir /book | true
 WORKDIR /ricette
 
-ENTRYPOINT ["/ricette/docker/run-in-docker.sh"]
+ENTRYPOINT ["bash", "-c", "/ricette/docker/run-in-docker.sh"]
