@@ -48,6 +48,7 @@
   - [Peperoni al forno coi capperi](Peperoni-al-forno-coi-capperi.md)
   - [Patate arroste nello strutto](Patate-arroste-nello-strutto.md)
   - [Salvia fritta](salvia-fritta.md)
+  - [Fagioli in umido in pentola a pressione](Fagioli-in-umido-in-pentola-a-pressione.md)
 
 # Dolci
 
@@ -77,6 +78,7 @@
 - [Chocolate-chip cookies](Chocolate-chip-cookies.md)
 - [Ciambellone soffice](Ciambellone-soffice.md)
 - [Tartellette con crema al limone](Tartellette-con-crema-al-limone.md)
+- [Toll House Inn chocolate chip cookies (1938)](Toll-House-Inn-chocolate-chip-cookies.md)
 - [Pastafrolla]()
   - [Metodo della sabbiatura](Metodo-della-sabbiatura.md)
   - [Vari metodi](Vari-metodi.md)
@@ -148,6 +150,7 @@
     - [Fusilli con fave pecorino e guanciale](Fusilli-con-fave-pecorino-e-guanciale.md)
     - [Pasta con rucola e bacon](Pasta-con-rucola-e-bacon.md)
     - [Tagliatelle funghi castagne e salsicce](Tagliatelle-funghi-castagne-e-salsicce.md)
+    - [Noodles con verdure](Noodles-con-verdure.md)
   - [Riso]()
     - [Crocchette filanti di champignon e asiago](Crocchette-filanti-di-champignon-e-asiago.md)
     - [Riso alla cantonese](Riso-alla-cantonese.md)
@@ -196,7 +199,6 @@
     - [Potato Latkes](Potato-Latkes.md)
     - [Nuggets di carote al forno](Nuggets-di-carote-al-forno.md)
     - [Carote gratinate al forno](Carote-gratinate-al-forno.md)
-    - [Fagioli in umido in pentola a pressione](Fagioli-in-umido-in-pentola-a-pressione.md)
   - [Varie]()
     - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 - [Dolci]()
@@ -222,7 +224,7 @@
   - [Crema caffè](Crema-caffe.md)
   - [Mousse alla ricotta e al caffè](Mousse-alla-ricotta-e-al-caffe.md)
   - [Biscotti Ripieni Ricotta e Nutella](Biscotti-Ripieni-Ricotta-e-Nutella.md)
-  - [Toll House Inn chocolate chip cookies (1938)](Toll-House-Inn-chocolate-chip-cookies.md)
+  - [Ghiaccia reale](Ghiaccia-reale.md)
 - [Pane]()
   - [Pizzelle con cime di rapa olive e grana](Pizzelle-con-cime-di-rapa-olive-e-grana.md)
   - [Straccetti fritti](Straccetti-fritti.md)

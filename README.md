@@ -3,17 +3,13 @@
 ## Plugin usati
 
 - https://github.com/daviddrysdale/mdbook-indexing
-- https://developer.chrome.com/docs/workbox
-- https://www.npmjs.com/package/quick-serve
 
 ## Build locale
 
-Il processo di build prevede la generazione dei file html con mdbook, l'aggiunta delle librerie per la PWA e per comodita' l'avvio di un server htttp locale per testarlo, in pratica:
+Il processo di build prevede la generazione dei file html con mdbook, in pratica:
 
 ```bash
-mdbook build
-npx workbox injectManifest workbox-config.js
-npx quick-serve book
+mdbook build -o
 ```
 
 ### Docker image
