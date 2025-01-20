@@ -50,6 +50,7 @@
   - [Patate arroste nello strutto](Patate-arroste-nello-strutto.md)
   - [Salvia fritta](salvia-fritta.md)
   - [Fagioli in umido in pentola a pressione](Fagioli-in-umido-in-pentola-a-pressione.md)
+  - [Carote Arrostite](Carote-Arrostite.md)
 
 # Dolci
 
