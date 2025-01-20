@@ -26,5 +26,6 @@
 1. Si infornano a 250 gradi per 20/25 min.
 1. Dopo cotte si aggiunge olio, basilico o una burrata
 
-
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ghHPluPF6co?si=dbXcBR2zlBV39sav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>

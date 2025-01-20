@@ -1,8 +1,13 @@
 # Poorman's ice cream
 
-![](img/Poormans-ice-cream.webp)
-
-{{hi:Pomodoro}}
+<p style="text-align:center;">
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/FW5ns86UjsE"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</p>
 
 ## Ingredienti
 
@@ -23,11 +28,3 @@
 ## Nota
 
 Meglio usare zucchero a velo e dimezzare la dose della ricetta originale
-
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/FW5ns86UjsE"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
-

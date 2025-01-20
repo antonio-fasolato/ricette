@@ -25,4 +25,6 @@
 1. Si spennella di bianco d'uovo
 1. Si inforna a 180 gradi per 20/30 minuti\end{step}
 
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/biDi70wZw98?si=VoRWZvYiYKeJtuOt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
