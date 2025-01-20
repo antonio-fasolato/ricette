@@ -33,6 +33,7 @@
   - [Beef ale and mushroom pie](Beef-ale-and-mushroom-pie.md)
   - [Pollo al curry dal 1700](Pollo-al-curry-dal-1700.md)
   - [Pollo ai peperoni](Pollo-ai-peperoni.md)
+  - [Scouse](Scouse.md)
 - [Pesce]()
   - [Bun di tonno](Bun-di-tonno.md)
   - [Crispy tuna melt](Crispy-tuna-melt.md)
@@ -49,6 +50,7 @@
   - [Patate arroste nello strutto](Patate-arroste-nello-strutto.md)
   - [Salvia fritta](salvia-fritta.md)
   - [Fagioli in umido in pentola a pressione](Fagioli-in-umido-in-pentola-a-pressione.md)
+  - [Carote Arrostite](Carote-Arrostite.md)
 
 # Dolci
 
@@ -171,7 +173,6 @@
     - [Carciofi ripieni della nonna](Carciofi-ripieni-della-nonna.md)
     - [Crostoni tostati al formaggio e pancetta](Crostoni-tostati-al-formaggio-e-pancetta.md)
     - [Girelle di petto di pollo e zucchine](Girelle-di-petto-di-pollo-e-zucchine.md)
-    - [Scouse](Scouse.md)
   - [Pesce]()
   - [Formaggio]()
     - [Bocconcini di Asiago fritti](Bocconcini-di-Asiago-fritti.md)

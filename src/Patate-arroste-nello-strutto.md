@@ -1,5 +1,6 @@
 # Patate arroste nello strutto
 
+<p style="text-align:center;">
 <iframe
   width="560"
   height="315"
@@ -10,6 +11,7 @@
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen
 ></iframe>
+</p>
 
 ## Ingredienti
 

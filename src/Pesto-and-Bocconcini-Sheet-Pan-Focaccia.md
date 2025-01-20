@@ -1,8 +1,13 @@
 # Pesto and Bocconcini Sheet Pan Focaccia
 
-![](img/Pesto-and-Bocconcini-Sheet-Pan-Focaccia.webp)
-
-{{hi:Pomodoro}}
+<p style="text-align:center;">
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/sCXodpSVXFk"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</p>
 
 ## Ingredienti
 
@@ -33,12 +38,4 @@
 6. After 30 minutes, remove the tea towel. Drizzle some more olive oil over the top and use your fingers to create dimples throughout the dough. 
 1. Add the bocconcini, pesto, and a big pinch of flaky salt.
 7. Place the bread in the oven and bake for 25-30 minutes or until golden brown and crispy.
-
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/sCXodpSVXFk"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
-
 

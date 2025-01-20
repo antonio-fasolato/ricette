@@ -54,17 +54,20 @@ docker run --rm -ti -v $(pwd):/ricette -p12345:12345 ricette
 ### Embedding di uno short di youtube
 
 ```html
+<p style="text-align:center;">
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/<Shorts_video_code>"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
+<p style="text-align:center;">
 ```
 
 ## Embedding di un video
 
 ```html
+<p style="text-align:center;">
 <iframe
   width="560"
   height="315"
@@ -75,6 +78,7 @@ allowfullscreen></iframe>
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen
 ></iframe>
+</p>
 ```
 
 

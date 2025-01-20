@@ -1,7 +1,13 @@
 # Magic Oatmeal Cookies: 1985
 
-![](img/Magic-Oatmeal-Cookies-1985.webp)
-
+<p style="text-align:center;">
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/4ZeK_iLauko"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</p>
 ## Ingredienti
 
 | Ingredienti                  | Ingredienti             |
@@ -16,10 +22,3 @@
 1. Si mescola l'oatmeal
 1. Si Formano delle palline in una teglia con carta forno e si schiacciano legermente
 1. Si infornano a 175° per circa 15 minuti
-
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/4ZeK_iLauko"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>

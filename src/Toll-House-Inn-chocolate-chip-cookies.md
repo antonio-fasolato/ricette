@@ -1,11 +1,13 @@
 # Toll House Inn chocolate chip cookies (1938)
 
+<p style="text-align:center;">
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/N8RIK8-V6f8"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
+</p>
 
 ## Ingredienti
 

@@ -29,4 +29,6 @@
 1. A fine cottura si aggiunge il limone e la panna/ricotta
 1. Si preparano delle ciotole con il riso sul fondo e si versa sopra di esso il curry di pollo
 
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zgi4Gbu1ZFE?si=KqX5PYUZt3zr02W5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
