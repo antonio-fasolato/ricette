@@ -1,5 +1,7 @@
 # Summary
 
+[Indice](SUMMARY.md)
+
 # Antipasti
 
 - [Pizzette di polenta](Pizzette-di-polenta.md)
