@@ -17,7 +17,7 @@ mdbook build -o
 Per lanciare il sito localmente con build di tutti i componenti:
 
 ```bash
-docker build -t ricette .
+docker build --load -t ricette .
 
 docker run --rm -ti -v $(pwd):/ricette -p12345:12345 ricette
 ```
