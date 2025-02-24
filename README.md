@@ -95,3 +95,5 @@ allowfullscreen></iframe>
 - https://vitepress.dev/guide/markdown
 - https://vitepress.dev/reference/default-theme-home-page
 - https://www.npmjs.com/search?q=keywords:vitepress%20plugin
+
+npx http-server vitepress-src/.vitepress/dist
