@@ -85,3 +85,13 @@ allowfullscreen></iframe>
 ## Indici
 
 `{{hi:Testo}}`
+
+
+
+
+
+
+- https://vitepress.dev/
+- https://vitepress.dev/guide/markdown
+- https://vitepress.dev/reference/default-theme-home-page
+- https://www.npmjs.com/search?q=keywords:vitepress%20plugin

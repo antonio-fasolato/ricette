@@ -1,3 +1,5 @@
 book
 .idea/
 node_modules/
+vitepress-src/.vitepress/dist
+vitepress-src/.vitepress/cache
