@@ -1,6 +1,6 @@
 # Pizzette di polenta
 
-![](/img/Pizzette-di-polenta.webp)
+![](../img/Pizzette-di-polenta.webp)
 
 {{hi:Polenta}}
 {{hi:Mozzarella}}
