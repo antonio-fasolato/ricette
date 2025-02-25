@@ -88,6 +88,14 @@ allowfullscreen></iframe>
 
 
 
+---
+
+https://www.mkdocs.org/getting-started/
+
 python3 -m venv .venv
 source .venv/bin/activate
 pip install mkdocs
+mkdocs new .
+
+mkdocs serve
+mkdocs build

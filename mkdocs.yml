@@ -1,0 +1,5 @@
+site_name: Ricette
+nav:
+  - Home: index.md
+  - Antipasti: antipasti/index.md
+  - Primi: primi/index.md
