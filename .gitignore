@@ -2,3 +2,4 @@ book
 .idea/
 .venv/
 node_modules/
+site/
