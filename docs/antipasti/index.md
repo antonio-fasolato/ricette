@@ -1,1 +1,6 @@
 - [Pizzette di polenta](Pizzette-di-polenta.md)
+- [Zucca al vapore con dadini di polenta fritta](Zucca-al-vapore-con-dadini-di-polenta-fritta.md)
+- [Nodini di parmigiano](Nodini-di-parmigiano.md)
+- [Giardiniera in agrodolce](Giardiniera-in-agrodolce.md)
+- [Zucca in saor](Zucca-in-saor.md)
+- [Hummus](Hummus.md)
