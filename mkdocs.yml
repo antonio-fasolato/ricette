@@ -8,7 +8,12 @@ repo_url: https://github.com/antonio-fasolato/ricette
 # D&D!
 #theme: 'torillic'
 
+markdown_extensions:
+  - attr_list
+
 nav:
   - Home: index.md
   - Antipasti: antipasti/index.md
   - Primi: primi/index.md
+  - Secondi: secondi/index.md
+  - Da provare: da-provare/index.md
