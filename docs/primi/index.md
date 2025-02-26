@@ -6,3 +6,9 @@
 - [Tagliolini al limone](Tagliolini-al-limone.md)
 - [Pasta con crema di peperoni e ricotta](Pasta-con-crema-di-peperoni-e-ricotta.md)
 - [Noodles con verdure](Noodles-con-verdure.md)
+
+# Riso
+
+- [Nasi goreng](Nasi-goreng.md)
+- [Risotto alle ortiche](Risotto-alle-ortiche.md)
+- [Risotto alla zucca](Risotto-alla-zucca.md)
