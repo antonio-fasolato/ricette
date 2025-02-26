@@ -26,6 +26,14 @@ extra_javascript:
 plugins:
   - tags
 
+validation:
+  omitted_files: warn
+  absolute_links: warn  # Or 'relative_to_docs' - new in MkDocs 1.6
+  unrecognized_links: warn
+  anchors: warn  # New in MkDocs 1.6
+  nav:
+    omitted_files: ignore
+
 nav:
   - Home: index.md
   - Antipasti: antipasti/index.md
