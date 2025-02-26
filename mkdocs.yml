@@ -7,6 +7,8 @@ repo_url: https://github.com/antonio-fasolato/ricette
 
 # D&D!
 #theme: 'torillic'
+theme:
+  name: material
 
 markdown_extensions:
   - attr_list
