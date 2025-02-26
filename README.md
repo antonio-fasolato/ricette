@@ -99,3 +99,5 @@ mkdocs new .
 
 mkdocs serve
 mkdocs build
+
+pip install -r requirements.txt
