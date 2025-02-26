@@ -23,9 +23,14 @@ extra_javascript:
   - mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
+plugins:
+  - tags
+
 nav:
   - Home: index.md
   - Antipasti: antipasti/index.md
   - Primi: primi/index.md
   - Secondi: secondi/index.md
   - Da provare: da-provare/index.md
+  - "": ""
+  - Tags: tags.md

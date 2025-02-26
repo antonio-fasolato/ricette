@@ -1,9 +1,12 @@
+---
+tags:
+  - Polenta
+  - Mozzarella
+---
+
 # Pizzette di polenta
 
 ![](../img/Pizzette-di-polenta.webp)
-
-{{hi:Polenta}}
-{{hi:Mozzarella}}
 
 ## Ingredienti
 
