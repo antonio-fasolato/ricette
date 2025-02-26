@@ -1,11 +1,12 @@
 site_name: Ricette
+repo_url: https://github.com/antonio-fasolato/ricette
 # theme:
 #   name: terminal
 #   palette: Dark
-theme: 'windmill'
+#theme: 'windmill'
 
 # D&D!
-# theme: 'torillic'
+#theme: 'torillic'
 
 nav:
   - Home: index.md
