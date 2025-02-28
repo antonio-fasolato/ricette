@@ -41,9 +41,7 @@ tags:
   - abc
 ---
 
-![](img/.webp)
-
-{{hi:Pomodoro}}
+![](../img/.webp)
 
 ## Ingredienti
 

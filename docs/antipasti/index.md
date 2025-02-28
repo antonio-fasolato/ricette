@@ -4,3 +4,4 @@
 - [Giardiniera in agrodolce](Giardiniera-in-agrodolce.md)
 - [Zucca in saor](Zucca-in-saor.md)
 - [Hummus](Hummus.md)
+- [Chips di parmigiano](Chips-di-parmigiano.md)
