@@ -38,6 +38,7 @@ jobs:
       uses: actions/configure-pages@v5
     - name: Generate mosaic
       run: |
+        chmod +x generate-mosaic.sh
         ./generate-mosaic.sh
     - name: Build docs
       run: |
