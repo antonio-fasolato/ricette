@@ -1,1 +1,3 @@
 # Ricette
+
+![](mosaic.webp)

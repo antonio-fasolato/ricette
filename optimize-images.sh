@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for FILENAME in src/img/*; do
+for FILENAME in docs/img/*; do
     case $FILENAME in
         *.webp) continue;;
         *screenshot-*) continue;;

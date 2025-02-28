@@ -1,7 +1,6 @@
 FROM alpine:3.21.2
 
-RUN apk add --no-cache tzdata bash nginx python3 py3-pip
-
+RUN apk add --no-cache tzdata bash nginx python3 py3-pip imagemagick imagemagick-dev imagemagick-jpeg libwebp file ghostscript-fonts
 RUN ln -s /usr/share/zoneinfo/Europe/Rome /etc/localtime
 RUN ln -sf /dev/stdout /var/log/nginx/access.log && ln -sf /dev/stderr /var/log/nginx/error.log
 #COPY docker/nginx.conf /etc/nginx/http.d/default.conf
@@ -12,8 +11,10 @@ WORKDIR /ricette
 COPY mkdocs.yml /ricette/mkdocs.yml
 COPY docs /ricette/docs
 COPY requirements.txt /ricette/requirements.txt
+COPY generate-mosaic.sh /ricette/generate-mosaic.sh
 RUN pip3 install --break-system-packages --no-cache-dir -r requirements.txt
 RUN cd /ricette && \
+    ./generate-mosaic.sh && \
     mkdocs build
 
 ENTRYPOINT ["sh", "-c", "nginx -g 'daemon off;'"]
