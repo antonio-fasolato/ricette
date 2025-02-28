@@ -28,3 +28,11 @@
 - [Fagioli in umido in pentola a pressione](Fagioli-in-umido-in-pentola-a-pressione.md)
 - [Lenticchie in umido in pentola a pressione](Lenticchie-in-umido-in-pentola-a-pressione.md)
 - [Carote Arrostite](Carote-Arrostite.md)
+
+# Salse
+
+- [Salsa Tartara](Salsa-tartara.md)
+- [Salsa rosa (o cocktail)](Salsa-rosa.md)
+- [Salsa di peperoni](Salsa-di-peperoni.md)
+- [Salsa tonnata](Salsa-tonnata.md)
+- [Salsa verde](Salsa-verde.md)
