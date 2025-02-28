@@ -40,7 +40,7 @@ jobs:
       uses: jruipinto/ImageMagick-action@v1
       with:
         # ImageMagick command to be executed
-        command: ls #./generate_mosaic.sh
+        command: sh -c generate_mosaic.sh
     - name: Build docs
       run: |
         mkdocs build
