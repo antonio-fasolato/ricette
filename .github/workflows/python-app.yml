@@ -28,9 +28,8 @@ jobs:
       with:
         python-version: "3.13"
         cache: 'pip'
-    - uses: tecolicom/actions-use-apt-tools@v1
-      with:
-        tools: imagemagick ghostscript
+    - name: Install imagemagick
+      run: sudo apt install -y imagemagick ghostscript
     - name: Install python dependencies
       run: |
         python -m pip install --upgrade pip
