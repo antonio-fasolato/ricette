@@ -41,6 +41,7 @@ jobs:
       with:
         # ImageMagick command to be executed
         command: ./generate_mosaic.sh
+        working-directory: repo
     - name: Build docs
       run: |
         mkdocs build
