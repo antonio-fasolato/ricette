@@ -37,10 +37,8 @@ jobs:
       id: pages
       uses: actions/configure-pages@v5
     - name: Generate mosaic
-      uses: jruipinto/ImageMagick-action@v1
-      with:
-        # ImageMagick command to be executed
-        command: sh -c generate_mosaic.sh
+      run: |
+        ls -l
     - name: Build docs
       run: |
         mkdocs build
