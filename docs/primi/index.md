@@ -17,3 +17,13 @@
 
 - [Zuppa d'orzo in brodo di croste di Grana Padano e funghi porcini](Zuppa-dorzo-in-brodo-di-croste-di-Grana-Padano-e-funghi-porcini.md)
 - [Zuppa rustica ai tre cereali](Zuppa-rustica-ai-tre-cereali.md)
+
+# Ramen
+
+## Tecnica
+
+- [Brodo di ossa di manzo](Brodo-di-ossa-di-manzo.md)
+
+## Ricette
+
+- [Ramen di Andy Cooks](Ramen-di-Andy-Cooks.md)
