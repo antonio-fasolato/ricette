@@ -41,6 +41,7 @@ nav:
   - Secondi: secondi/index.md
   - Pane: pane/index.md
   - Dolci: dolci/index.md
-  - Da provare: da-provare/index.md
+  - Da provare:
+    - Antipasti: da-provare/antipasti/index.md
   - "": ""
   - Tags: tags.md
