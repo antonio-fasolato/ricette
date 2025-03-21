@@ -43,5 +43,6 @@ nav:
   - Dolci: dolci/index.md
   - Da provare:
     - Antipasti: da-provare/antipasti/index.md
+    - Primi: da-provare/primi/index.md
   - "": ""
   - Tags: tags.md
