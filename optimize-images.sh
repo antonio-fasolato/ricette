@@ -7,6 +7,6 @@ for FILENAME in docs/img/*; do
         *icon512_*) continue ;;
     esac
     F=$(basename -- "$FILENAME")
-    magick "$FILENAME" "src/img/${F%.*}.webp"
+    magick "$FILENAME" "docs/img/${F%.*}.webp"
     rm "$FILENAME"
 done
