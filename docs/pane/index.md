@@ -21,6 +21,7 @@
 - [Cheese scones](Cheese-scones.md)
 - [American burger](American-burger.md)
 - [Pizzette rosse](Pizzette-rosse.md)
+- [Brioche allo zucchero](brioche-allo-zucchero.md)
 
 ## Macchina del pane
 

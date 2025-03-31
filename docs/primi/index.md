@@ -27,3 +27,4 @@
 ## Ricette
 
 - [Ramen di Andy Cooks](Ramen-di-Andy-Cooks.md)
+- [Ramen di pollo (Giallo zafferano)](ramen-di-pollo-giallo-zafferano.md)
