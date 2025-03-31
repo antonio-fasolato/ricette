@@ -28,8 +28,6 @@ jobs:
       with:
         python-version: "3.13"
         cache: 'pip'
-    - name: Install imagemagick
-      run: sudo apt install -y imagemagick ghostscript
     - name: Install python dependencies
       run: |
         python -m pip install --upgrade pip
@@ -40,8 +38,6 @@ jobs:
       uses: actions/configure-pages@v5
     - name: Build docs
       run: |
-        chmod +x generate-mosaic.sh
-        ./generate-mosaic.sh
         mkdocs build
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
