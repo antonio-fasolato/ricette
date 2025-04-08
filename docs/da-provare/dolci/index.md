@@ -1,4 +1,3 @@
-- [Crostata sbriciolona](crostata-sbriciolona.md)
 - [San Sebastian Cheesecake (Burnt Basque Cheesecake)](san-sebastian-cheesecake.md)
 - [Crema al burro e biscotti secchi](crema-al-burro-e-biscotti-secchi.md)
 - [Brownies paradiso](brownies-paradiso.md)

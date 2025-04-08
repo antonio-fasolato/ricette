@@ -3,7 +3,7 @@ tags:
   - Nutella
 ---
 
-![](../../img/crostata-sbriciolona.webp)
+![](../img/crostata-sbriciolona.webp)
 
 ## Ingredienti
 

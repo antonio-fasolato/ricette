@@ -1,1 +1,3 @@
 - [Crostata al prosciuttto cotto](crostata-al-prosciuttto-cotto.md)
+- [Gyoza vegetariani](gyoza-vegetariani.md)
+- [Guancia di manzo con carciofi](guancia-di-manzo-con-carciofi.md)
