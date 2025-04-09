@@ -1,7 +1,3 @@
----
-tags:
-  - abc
----
 # Crostini di pane fritti
 
 ![](../../img/Crostini-di-pane-fritti.webp)

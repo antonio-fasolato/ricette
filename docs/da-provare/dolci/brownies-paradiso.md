@@ -1,8 +1,3 @@
----
-tags:
-  - abc
----
-
 ![](../../img/brownies-paradiso.webp)
 
 ## Ingredienti

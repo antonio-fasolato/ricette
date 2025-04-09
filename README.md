@@ -63,6 +63,17 @@ tags:
 
 ```
 
+## Tabelle di immagini
+
+```html
+<table class="tg"><tbody>
+  <tr>
+    <td class="tg-0lax"><img src="../../../img/.webp"/></td>
+    <td class="tg-0lax"><img src="../../../img/.webp"/></td>
+  </tr></tbody>
+</table>
+```
+
 ## Youtube
 
 ### Embedding di uno short di youtube

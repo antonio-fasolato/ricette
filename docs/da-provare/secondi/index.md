@@ -35,8 +35,18 @@
 - [Stuffed potato cakes](Stuffed-potato-cakes.md)
 - [Frittata estiva di verdure](Frittata-estiva-di-verdure.md)
 - [Torta rovesciata di peperoni e olive](Torta-rovesciata-di-peperoni-e-olive.md)
+- [Roast di cavolfiore](Roast-di-cavolfiore.md)
+- [Duchess Potatoes](Duchess-Potatoes.md)
+- [Potato Pavé](Potato-Pave.md)
+- [Potato Latkes](Potato-Latkes.md)
+- [Nuggets di carote al forno](Nuggets-di-carote-al-forno.md)
+- [Carote gratinate al forno](Carote-gratinate-al-forno.md)
 
 - [Gyoza vegetariani](gyoza-vegetariani.md)
+
+# Varie
+
+- [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 
 # Piatti unici
 
