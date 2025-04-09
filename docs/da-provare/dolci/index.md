@@ -1,3 +1,5 @@
+# Dolci
+
 - [Mini cheesecake](Mini-cheesecake.md)
 - [Torta alla lavanda](Torta-alla-lavanda.md)
 - [Crostata di ricotta](Crostata-di-ricotta.md)
@@ -15,7 +17,15 @@
 - [Magic Oatmeal Cookies: 1985](Magic-Oatmeal-Cookies-1985.md)
 - [Linzer Torte](Linzer-Torte.md)
 - [Chocolate pie cake](Chocolate-pie-cake.md)
+- [Trecce Dolci](Trecce-Dolci.md)
+- [Crema caffè](Crema-caffe.md)
+- [Mousse alla ricotta e al caffè](Mousse-alla-ricotta-e-al-caffe.md)
+- [Biscotti Ripieni Ricotta e Nutella](Biscotti-Ripieni-Ricotta-e-Nutella.md)
 
 - [San Sebastian Cheesecake (Burnt Basque Cheesecake)](san-sebastian-cheesecake.md)
 - [Crema al burro e biscotti secchi](crema-al-burro-e-biscotti-secchi.md)
 - [Brownies paradiso](brownies-paradiso.md)
+
+# Glasse
+
+- [Ghiaccia reale](Ghiaccia-reale.md)
