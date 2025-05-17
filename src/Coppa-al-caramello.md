@@ -1,1 +1,0 @@
-# Coppa al caramello
