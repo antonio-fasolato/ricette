@@ -1,16 +1,28 @@
 # ricette
 
-## Plugin usati
-
-- https://github.com/daviddrysdale/mdbook-indexing
+https://www.mkdocs.org/getting-started/
 
 ## Build locale
 
-Il processo di build prevede la generazione dei file html con mdbook, in pratica:
+Si attiva il virtual env, si aggiornano le dipendenze e si lancia il server di sviluppo
 
-```bash
-mdbook build -o
+```Bash
+source .venv/bin/activate
+pip install -r requirements.txt
+mkdocs serve
 ```
+
+### Build da deployare
+
+Il comando e' simile al server di sviluppo
+
+```Bash
+source .venv/bin/activate
+pip install -r requirements.txt
+mkdocs build
+```
+
+Il sito viene generato nella cartella `site`
 
 ### Docker image
 
@@ -18,16 +30,18 @@ Per lanciare il sito localmente con build di tutti i componenti:
 
 ```bash
 docker build --load -t ricette .
-
-docker run --rm -ti -v $(pwd):/ricette -p12345:12345 ricette
+docker run --rm -ti -p12345:12345 ricette
 ```
 
 ## Template
 
 ```
-![](img/.webp)
+---
+tags:
+  - abc
+---
 
-{{hi:Pomodoro}}
+![](../img/.webp)
 
 ## Ingredienti
 
@@ -47,6 +61,17 @@ docker run --rm -ti -v $(pwd):/ricette -p12345:12345 ricette
 
 1. 
 
+```
+
+## Tabelle di immagini
+
+```html
+<table class="tg"><tbody>
+  <tr>
+    <td class="tg-0lax"><img src="../../../img/.webp"/></td>
+    <td class="tg-0lax"><img src="../../../img/.webp"/></td>
+  </tr></tbody>
+</table>
 ```
 
 ## Youtube
@@ -80,8 +105,3 @@ allowfullscreen></iframe>
 ></iframe>
 </p>
 ```
-
-
-## Indici
-
-`{{hi:Testo}}`
