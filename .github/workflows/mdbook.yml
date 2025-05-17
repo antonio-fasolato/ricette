@@ -5,7 +5,7 @@ name: Build with mkdocs
 
 on:
   push:
-    branches: [ "develop" ]
+    branches: [ "master" ]
 
 permissions:
   contents: read
