@@ -1,6 +1,6 @@
 # Trecce Dolci
 
-![](../../../img/Trecce-dolci.webp)
+![](../../../img/Trecce-Dolci.webp)
 
 [Sorgente](https://blog.giallozafferano.it/ricettepanedolci/ricetta-trecce-dolci/)
 
