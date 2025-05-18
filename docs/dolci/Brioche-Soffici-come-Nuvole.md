@@ -1,6 +1,6 @@
 # Brioche Soffici come Nuvole
 
-![](../../img/Brioche-Soffici-Come-Nuvole.webp)
+![](../../../img/Brioche-Soffici-Come-Nuvole.webp)
 
 [Sorgente](https://blog.giallozafferano.it/ricettepanedolci/brioche-soffici-come-nuvole/)
 
