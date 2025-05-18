@@ -16,6 +16,7 @@
 
 - [Bocconcini di Asiago fritti](Bocconcini-di-Asiago-fritti.md)
 - [Mozzarella in carrozza al forno](Mozzarella-in-carrozza-al-forno.md)
+- [Tartellette al Larin](tartellette-al-larin.md)
 
 # Verdure
 

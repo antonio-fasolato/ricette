@@ -1,9 +1,6 @@
 - Varie
     - [Sostituti del latticello](Sostituti-del-latticello.md)
     - [Topping al cioccolato](Topping-al-cioccolato.md)
-- Pastafrolla
-    - [Metodo della sabbiatura](Metodo-della-sabbiatura.md)
-    - [Vari metodi](Vari-metodi.md)
 - Cheesecake
     - [Cheese cake con frutti rossi e briciole di biscotti](Cheese-cake-con-frutti-rossi-e-briciole-di-biscotti.md)
     - [Cheesecake ai lamponi di Damiano Carrara](cheesecake-ai-lamponi.md)
