@@ -8,6 +8,7 @@
 - [Pasta con rucola e bacon](Pasta-con-rucola-e-bacon.md)
 - [Tagliatelle funghi castagne e salsicce](Tagliatelle-funghi-castagne-e-salsicce.md)
 - [Noodles di verdure con salsa alle arachidi](noodles-di-verdure-con-salsa-alle-arachidi.md)
+- [Ragù di corte](Ragu-di-corte.md)
 
 # Riso
 
