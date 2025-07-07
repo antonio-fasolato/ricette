@@ -11,6 +11,7 @@
 - [Crostoni tostati al formaggio e pancetta](Crostoni-tostati-al-formaggio-e-pancetta.md)
 - [Girelle di petto di pollo e zucchine](Girelle-di-petto-di-pollo-e-zucchine.md)
 - [Guancia di manzo con carciofi](guancia-di-manzo-con-carciofi.md)
+- [Shepherd's pie](Shepherd-s-pie.md)
 
 # Formaggio
 
