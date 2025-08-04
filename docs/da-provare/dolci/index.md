@@ -21,10 +21,11 @@
 - [Crema caffè](Crema-caffe.md)
 - [Mousse alla ricotta e al caffè](Mousse-alla-ricotta-e-al-caffe.md)
 - [Biscotti Ripieni Ricotta e Nutella](Biscotti-Ripieni-Ricotta-e-Nutella.md)
-
 - [San Sebastian Cheesecake (Burnt Basque Cheesecake)](san-sebastian-cheesecake.md)
 - [Crema al burro e biscotti secchi](crema-al-burro-e-biscotti-secchi.md)
 - [Brownies paradiso](brownies-paradiso.md)
+- [Biscotti Brutti ma buoni alle noci](Biscotti-Brutti-ma-buoni-alle-noci.md)
+- [Lemon bars](Lemon-bars.md)
 
 # Glasse
 
