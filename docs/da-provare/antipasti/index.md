@@ -7,3 +7,4 @@
 - [Spiedini di pane alle erbe](Spiedini-di-pane-alle-erbe.md)
 - [Hummus di pomodorini](Hummus-di-pomodorini.md)
 - [Crostini di pane fritti](Crostini-di-pane-fritti.md)
+- [Cipolline sott'olio](Cipolline-sott-olio.md)
