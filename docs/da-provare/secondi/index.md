@@ -49,6 +49,7 @@
 # Varie
 
 - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
+- [Uova ripiene al pesto](Uova-ripiene-al-pesto.md)
 
 # Piatti unici
 
