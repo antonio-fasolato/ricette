@@ -43,8 +43,10 @@
 - [Potato Latkes](Potato-Latkes.md)
 - [Nuggets di carote al forno](Nuggets-di-carote-al-forno.md)
 - [Carote gratinate al forno](Carote-gratinate-al-forno.md)
-
 - [Gyoza vegetariani](gyoza-vegetariani.md)
+- [Patate e zucca al forno gratinate](Patate-e-zucca-al-forno-gratinate.md)
+- [Zucca marinata cotta](Zucca-marinata-cotta.md)
+- [Stick di zucca](Stick-di-zucca.md)
 
 # Varie
 

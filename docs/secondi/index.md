@@ -28,6 +28,7 @@
 - [Fagioli in umido in pentola a pressione](Fagioli-in-umido-in-pentola-a-pressione.md)
 - [Lenticchie in umido in pentola a pressione](Lenticchie-in-umido-in-pentola-a-pressione.md)
 - [Carote Arrostite](Carote-Arrostite.md)
+- [Zucca cotta in padella croccante](Zucca-cotta-in-padella-croccante.md)
 
 # Salse
 

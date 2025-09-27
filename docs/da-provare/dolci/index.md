@@ -25,6 +25,7 @@
 - [Crema al burro e biscotti secchi](crema-al-burro-e-biscotti-secchi.md)
 - [Brownies paradiso](brownies-paradiso.md)
 - [Biscotti Brutti ma buoni alle noci](Biscotti-Brutti-ma-buoni-alle-noci.md)
+- [Cheesecake Raffaello](Cheesecake-Raffaello.md)
 
 # Glasse
 
