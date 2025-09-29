@@ -12,6 +12,7 @@
 - [Girelle di petto di pollo e zucchine](Girelle-di-petto-di-pollo-e-zucchine.md)
 - [Guancia di manzo con carciofi](guancia-di-manzo-con-carciofi.md)
 - [Shepherd's pie](Shepherd-s-pie.md)
+- [Bocconcini di pollo e piselli](Bocconcini-di-pollo-e-piselli.md)
 
 # Formaggio
 
@@ -46,7 +47,6 @@
 - [Gyoza vegetariani](gyoza-vegetariani.md)
 - [Patate e zucca al forno gratinate](Patate-e-zucca-al-forno-gratinate.md)
 - [Zucca marinata cotta](Zucca-marinata-cotta.md)
-- [Stick di zucca](Stick-di-zucca.md)
 
 # Varie
 
