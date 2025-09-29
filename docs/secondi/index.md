@@ -29,6 +29,7 @@
 - [Lenticchie in umido in pentola a pressione](Lenticchie-in-umido-in-pentola-a-pressione.md)
 - [Carote Arrostite](Carote-Arrostite.md)
 - [Zucca cotta in padella croccante](Zucca-cotta-in-padella-croccante.md)
+- [Stick di zucca](Stick-di-zucca.md)
 
 # Salse
 
