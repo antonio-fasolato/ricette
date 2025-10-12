@@ -12,7 +12,6 @@
 - [Girelle di petto di pollo e zucchine](Girelle-di-petto-di-pollo-e-zucchine.md)
 - [Guancia di manzo con carciofi](guancia-di-manzo-con-carciofi.md)
 - [Shepherd's pie](Shepherd-s-pie.md)
-- [Bocconcini di pollo e piselli](Bocconcini-di-pollo-e-piselli.md)
 
 # Formaggio
 
@@ -52,6 +51,8 @@
 
 - [Cestini di tonno, uova e verdure](Cestini-di-tonno-uova-e-verdure.md)
 - [Uova ripiene al pesto](Uova-ripiene-al-pesto.md)
+- [Uova al purgatorio](Uova-al-purgatorio.md)
+- [Uova e patate](Uova-e-patate.md)
 
 # Piatti unici
 
