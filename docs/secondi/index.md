@@ -6,6 +6,7 @@
 - [Pollo al curry dal 1700](Pollo-al-curry-dal-1700.md)
 - [Pollo ai peperoni](Pollo-ai-peperoni.md)
 - [Scouse](Scouse.md)
+- [Bocconcini di pollo e piselli](Bocconcini-di-pollo-e-piselli.md)
 
 # Pesce
 
