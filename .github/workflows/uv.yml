@@ -1,7 +1,4 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
-name: Build with mkdocs
+name: Build with uv and mkdocs
 
 on:
   push:
@@ -22,23 +19,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python 3.10
+    - uses: actions/checkout@v5
+    - name: "Set up Python"
       uses: actions/setup-python@v5
       with:
-        python-version: "3.13"
-        cache: 'pip'
-    - name: Install python dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        python-version-file: ".python-version"    
+    - name: Install uv
+      uses: astral-sh/setup-uv@v6
+      with:
+        version: "0.9.3"
+    - name: Install the project
+      run: uv sync --all-extras --dev
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
     - name: Build docs
-      run: |
-        mkdocs build
+      run: uv run mkdocs build
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
