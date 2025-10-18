@@ -2,7 +2,7 @@ name: Build with uv and mkdocs
 
 on:
   push:
-    branches: [ "feature/uv" ]
+    branches: [ "master" ]
 
 permissions:
   contents: read
