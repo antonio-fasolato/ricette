@@ -22,3 +22,4 @@
 - [Potato cheddar soup](Potato-cheddar-soup.md)
 - [Crema di fave, cicoria e noci](Crema-di-fave-cicoria-e-noci.md)
 - [Vellutata di funghi porcini](Vellutata-di-funghi-porcini.md)
+- [Vellutata di zucca e guanciale](Vellutata-di-zucca-e-guanciale.md)

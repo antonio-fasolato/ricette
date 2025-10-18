@@ -6,7 +6,8 @@
     {
       "label": "Optimize images",
       "type": "shell",
-      "command": "./optimize-images.sh"
+      "command": "./optimize-images.sh",
+      "problemMatcher": []
     },
     {
       "label": "Serve",
