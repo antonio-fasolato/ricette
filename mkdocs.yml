@@ -12,6 +12,8 @@ theme:
   favicon: img/favicon.png
   features:
     - header.autohide
+    - search.suggest
+    - search.highlight
 
 markdown_extensions:
   - attr_list
@@ -25,6 +27,7 @@ extra_javascript:
 
 plugins:
   - tags
+  - search
 
 validation:
   omitted_files: warn
