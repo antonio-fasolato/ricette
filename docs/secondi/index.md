@@ -7,6 +7,7 @@
 - [Pollo ai peperoni](Pollo-ai-peperoni.md)
 - [Scouse](Scouse.md)
 - [Bocconcini di pollo e piselli](Bocconcini-di-pollo-e-piselli.md)
+- [Cotechino](Cotechino.md)
 
 # Pesce
 
