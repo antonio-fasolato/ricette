@@ -11,12 +11,14 @@
 - [Ragù di corte](Ragu-di-corte.md)
 - [Pasta con la zucca](Pasta-con-la-zucca.md)
 - [Pasta con crema di zucca e taleggio](Pasta-con-crema-di-zucca-e-taleggio.md)
+- [Tagliatelle ai piselli](Tagliatelle-ai-piselli.md)
 
 # Riso
 
 - [Crocchette filanti di champignon e asiago](Crocchette-filanti-di-champignon-e-asiago.md)
 - [Riso alla cantonese](Riso-alla-cantonese.md)
 - [Risotto con peperoni e rucola](Risotto-con-peperoni-e-rucola.md)
+- [Risotto porri e salsiccia](Risotto-porri-e-salsiccia.md)
 
 # Zuppe
 

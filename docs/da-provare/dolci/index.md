@@ -29,6 +29,9 @@
 - [Torta alle noci di Vamerali](Torta-alle-noci-di-Vamerali.md)
 - [Torta allo yogurt e limone](Torta-allo-yogurt-e-limone.md)
 - [Biscotti linzer](Biscotti-linzer.md)
+- [Sbriciolata ricotta e marmellata](Sbriciolata-ricotta-e-marmellata.md)
+- [Torta con carote, cocco e cioccolato](Torta-con-carote-cocco-e-cioccolato.md)
+- [Cubotti cocco e cioccolato](Cubotti-cocco-e-cioccolato.md)
 
 # Glasse
 
