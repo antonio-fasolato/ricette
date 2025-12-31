@@ -32,6 +32,7 @@
 - [Carote Arrostite](Carote-Arrostite.md)
 - [Zucca cotta in padella croccante](Zucca-cotta-in-padella-croccante.md)
 - [Stick di zucca](Stick-di-zucca.md)
+- [Zucca in padella con pangrattato](Zucca-in-padella-con-pangrattato.md)
 
 # Salse
 
