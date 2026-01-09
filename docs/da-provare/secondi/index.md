@@ -12,6 +12,7 @@
 - [Girelle di petto di pollo e zucchine](Girelle-di-petto-di-pollo-e-zucchine.md)
 - [Guancia di manzo con carciofi](guancia-di-manzo-con-carciofi.md)
 - [Shepherd's pie](Shepherd-s-pie.md)
+- [Pollo e patate in padella](Pollo-e-patate-in-padella.md)
 
 # Formaggio
 
