@@ -6,6 +6,7 @@
 - [Tagliolini al limone](Tagliolini-al-limone.md)
 - [Pasta con crema di peperoni e ricotta](Pasta-con-crema-di-peperoni-e-ricotta.md)
 - [Noodles con verdure](Noodles-con-verdure.md)
+- [Pasta alla montanara con patate e cipolle](Pasta-alla-montanara-con-patate-e-cipolle.md)
 
 # Riso
 
@@ -18,6 +19,7 @@
 - [Zuppa d'orzo in brodo di croste di Grana Padano e funghi porcini](Zuppa-dorzo-in-brodo-di-croste-di-Grana-Padano-e-funghi-porcini.md)
 - [Zuppa rustica ai tre cereali](Zuppa-rustica-ai-tre-cereali.md)
 - [Zuppa di funghi](zuppa-di-funghi.md)
+- [Minestra d’orzo alla trentina](Minestra-dorzo-alla-trentina.md)
 
 # Ramen
 
