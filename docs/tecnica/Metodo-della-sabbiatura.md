@@ -10,7 +10,7 @@
 
 ## Procedimento
 
-> Preriscaldare il forno a a 270°
+> Preriscaldare il forno a a 170°
 
 1. Per preparare la pasta frolla con il metodo della sabbiatura cominciate versando la farina in un mixer (se volete potete utilizzare la planetaria allo stesso modo, sarà sufficiente utilizzare la foglia) insieme al burro freddo ridotto a pezzetti. 
 1. Azionate le lame a più riprese fino ad ottenere un composto sabbioso.  Utilizzare il mixer ad intermittenza farà si che l'impasto non si scaldi eccessivamente.
@@ -19,4 +19,4 @@
 1. Compattate velocemente con le mani, così non si svilupperà il glutine, giusto il tempo di ottenere un panetto liscio ed omogeneo. Avvolgetelo nella pellicola trasparente lasciandolo riposare in frigorifero per almeno mezzora (anche se più la frolla sta in frigo più il glutine si rilasserà e il burro avrà tempo per raffreddarsi, 10-12 ore sarebbe ancora meglio). 
 1. Trascorso questo tempo riprendete la frolla che potrete utilizzare nelle varie ricette di crostate e biscotti. 
 1. Per tirare bene la frolla sarà sufficiente sistemarla su un piano da lavoro leggermente infarinato (in alternativa tra due fogli di carta forno) e batterla per qualche istante con il matterello, così da restituire plasticità e un po' di calore.
-1. Cucinare a 270° per circa 25 minuti.
+1. Cucinare a 170° per circa 25 minuti.

@@ -23,6 +23,7 @@
 - [Pizzette rosse](Pizzette-rosse.md)
 - [Brioche allo zucchero](brioche-allo-zucchero.md)
 - [Focaccia (Andy cooks)](Focaccia-andy-cooks.md)
+- [Pizza (Andy Cooks)](Pizza-Andy-Cooks.md)
 
 ## Macchina del pane
 
