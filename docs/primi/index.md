@@ -13,6 +13,7 @@
 - [Nasi goreng](Nasi-goreng.md)
 - [Risotto alle ortiche](Risotto-alle-ortiche.md)
 - [Risotto alla zucca](Risotto-alla-zucca.md)
+- [Risotto allo zafferano](Risotto-allo-zafferano.md)
 
 # Zuppe
 
