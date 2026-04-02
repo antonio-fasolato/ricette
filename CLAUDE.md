@@ -14,6 +14,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - If ingredients are divided into parts or sections, use `### Section name` subsections under `## Ingredienti`, each with its own two-column table
 - If the recipe steps are divided into parts or sections, use `### Section name` subsections under `## Procedimento`, each with its own numbered list
 - If the recipe needs to be baked and there is an oven temperature, add it at the start of `## Procedimento` (or the relevant section) as a block quote, e.g. `> Preriscaldare il forno a 180°`
+- When a YouTube URL is provided for a recipe, attempt to fetch the page to extract title and description. YouTube often redirects to a consent page, so if fetching fails, ask the user to paste the description text directly. Once the description is available, extract ingredients and steps from it.
 
 ## Commands
 
@@ -67,7 +68,7 @@ Navigation in `mkdocs.yml` points to category `index.md` files, not individual r
 Recipes are markdown files with YAML frontmatter. The standard structure is:
 1. YAML frontmatter with `tags:`
 2. Title (`# Recipe Name`)
-3. Image: `![](../img/filename.webp)` — use `../../img/` for files under `da-provare/`
+3. Image OR YouTube embed — `![](../img/filename.webp)` (use `../../img/` for files under `da-provare/`); for video recipes use the appropriate embed format from `README.md` (Shorts vs regular video)
 4. `## Ingredienti` — two-column markdown table; optional subsections (`### Pasta`, `### Salsa`, etc.) each with their own table
 5. `## Procedimento` — numbered steps
 6. `## Note` (optional) — tips and variants

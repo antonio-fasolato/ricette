@@ -14,6 +14,7 @@
 - [Shepherd's pie](Shepherd-s-pie.md)
 - [Pollo e patate in padella](Pollo-e-patate-in-padella.md)
 - [Bombette di pollo cacio e pepe](Bombette-di-pollo-cacio-e-pepe.md)
+- [Teriyaki pork](Teriyaki-pork.md)
 
 # Formaggio
 
