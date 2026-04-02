@@ -1,3 +1,7 @@
+# Pesce
+
+- [Fish and chips with tartar sauce](Fish-and-chips.md)
+
 # Carne
 
 - [Garlic Butter Meatballs](Garlic-Butter-Meatballs.md)
@@ -14,6 +18,10 @@
 - [Shepherd's pie](Shepherd-s-pie.md)
 - [Pollo e patate in padella](Pollo-e-patate-in-padella.md)
 - [Bombette di pollo cacio e pepe](Bombette-di-pollo-cacio-e-pepe.md)
+- [Teriyaki pork](Teriyaki-pork.md)
+- [Xian Bing (Chinese Meat Pies)](Xian-Bing.md)
+- [Pork and Prawn Egg Rolls](Pork-and-Prawn-Egg-Rolls.md)
+- [Szechuan Beef](Szechuan-Beef.md)
 
 # Formaggio
 
