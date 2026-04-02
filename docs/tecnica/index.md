@@ -10,6 +10,7 @@
 # Basi e preparazioni
 
 - [Brodo vegetale al microonde](Brodo-vegetale-al-microonde.md)
+- [Burro montato](burro-montato.md)
 
 # Varie
 
