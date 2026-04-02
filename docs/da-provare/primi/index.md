@@ -13,6 +13,7 @@
 - [Pasta con crema di zucca e taleggio](Pasta-con-crema-di-zucca-e-taleggio.md)
 - [Tagliatelle ai piselli](Tagliatelle-ai-piselli.md)
 - [Pasta con crema di carciofi](Pasta-con-crema-di-carciofi.md)
+- [Spaghetti alla vigliacca](Spaghetti-alla-vigliacca.md)
 
 # Riso
 
