@@ -12,6 +12,7 @@
 - [Pasta con la zucca](Pasta-con-la-zucca.md)
 - [Pasta con crema di zucca e taleggio](Pasta-con-crema-di-zucca-e-taleggio.md)
 - [Tagliatelle ai piselli](Tagliatelle-ai-piselli.md)
+- [Pasta con crema di carciofi](Pasta-con-crema-di-carciofi.md)
 
 # Riso
 
