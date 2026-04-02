@@ -11,8 +11,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Ask the user if the recipe is to try or confirmed and what type of recipe it is (Primi, Secondi...)
 - If not specified in the prompt, always ask which image or YouTube video should be included in the recipe (see `README.md` for examples of how to embed videos)
 - Do not alter the recipe text — copy it exactly as written on the source site or in the input file
-- If ingredients are divided into parts or sections, preserve those sections in the output (see `docs/dolci/Lemon-bars.md` for an example)
-- If the recipe steps are divided into parts or sections, preserve those sections in the output (see `docs/dolci/Lemon-bars.md` for an example)
+- If ingredients are divided into parts or sections, use `### Section name` subsections under `## Ingredienti`, each with its own two-column table
+- If the recipe steps are divided into parts or sections, use `### Section name` subsections under `## Procedimento`, each with its own numbered list
+- If the recipe needs to be baked and there is an oven temperature, add it at the start of `## Procedimento` (or the relevant section) as a block quote, e.g. `> Preriscaldare il forno a 180°`
 
 ## Commands
 
