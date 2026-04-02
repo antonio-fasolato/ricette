@@ -1,3 +1,12 @@
+---
+tags:
+  - Dolci
+  - Cioccolato
+  - Brownies
+---
+
+# Brownies paradiso
+
 ![](../../img/brownies-paradiso.webp)
 
 ## Ingredienti
@@ -9,7 +18,7 @@
 | **230 g** - Cioccolato fondente al 55% | **220 g** - Burro |
 | **4** - Uovo | **140 g** - Farina 00 |
 | **20 g** - Cacao amaro in polvere | **5 g** - Lievito in polvere per dolci |
-| **220 g** - Burro | **1 pizzico** - Sale fino |
+| **220 g** - Zucchero | **1 pizzico** - Sale fino |
 
 ### Crema al latte
 
@@ -47,3 +56,7 @@
 ## Note
 
 Se la crema dovesse risultare troppo consistente potete ammorbidirla aggiungendo 2-3 cucchiai di latte.
+
+## Origine
+
+[https://ricette.giallozafferano.it/Brownies-paradiso.html](https://ricette.giallozafferano.it/Brownies-paradiso.html)

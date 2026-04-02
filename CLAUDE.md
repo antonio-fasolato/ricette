@@ -71,7 +71,7 @@ Recipes are markdown files with YAML frontmatter. The standard structure is:
 4. `## Ingredienti` — two-column markdown table; optional subsections (`### Pasta`, `### Salsa`, etc.) each with their own table
 5. `## Procedimento` — numbered steps
 6. `## Note` (optional) — tips and variants
-7. `## Origine` (optional) - the original link if it came from a link
+7. `## Origine` (optional) - the original link if it came from a link (formatted as a clickable link)
 
 ### Adding a New Recipe
 
