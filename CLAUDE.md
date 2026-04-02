@@ -13,6 +13,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Do not alter the recipe text — copy it exactly as written on the source site or in the input file
 - If ingredients are divided into parts or sections, preserve those sections in the output (see `docs/dolci/Lemon-bars.md` for an example)
 - If the recipe steps are divided into parts or sections, preserve those sections in the output (see `docs/dolci/Lemon-bars.md` for an example)
+- If the recipe needs to be baked and there is an oven temperature add it at the start of the recipe in a block quote (see `docs/dolci/Lemon-bars.md` for an example)
 
 ## Commands
 
