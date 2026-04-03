@@ -14,6 +14,7 @@
 - [Tagliatelle ai piselli](Tagliatelle-ai-piselli.md)
 - [Pasta con crema di carciofi](Pasta-con-crema-di-carciofi.md)
 - [Spaghetti alla vigliacca](Spaghetti-alla-vigliacca.md)
+- [Pasta ai due pomodori con tonno e olive](Pasta-ai-due-pomodori-con-tonno.md)
 
 # Riso
 
