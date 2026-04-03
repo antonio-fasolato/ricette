@@ -34,6 +34,7 @@
 - [Cubotti cocco e cioccolato](Cubotti-cocco-e-cioccolato.md)
 - [Crostata di ricotta e limone](Crostata-di-ricotta-e-limone.md)
 - [Budino di riso](Budino-di-riso.md)
+- [Biscottoni alla ricotta](Biscottoni-alla-ricotta.md)
 
 # Glasse
 
