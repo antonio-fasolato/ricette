@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COUNT=15
+COUNT=9
 picks=()
 images=(docs/img/*.webp)
 

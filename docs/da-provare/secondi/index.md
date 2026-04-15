@@ -22,6 +22,12 @@
 - [Xian Bing (Chinese Meat Pies)](Xian-Bing.md)
 - [Pork and Prawn Egg Rolls](Pork-and-Prawn-Egg-Rolls.md)
 - [Szechuan Beef](Szechuan-Beef.md)
+- [Polpette di carne](Polpette-di-carne.md)
+- [Buta Shogayaki (Japanese Ginger Pork)](Buta-Shogayaki.md)
+- [Chicken Donburi (Japanese Rice Bowl) With Spinach](Chicken-Donburi.md)
+- [Gyudon (Japanese Simmered Beef and Rice Bowls)](Gyudon.md)
+- [Pollo alla birra](Pollo-alla-birra.md)
+- [Straccetti di maiale alla birra](Straccetti-di-maiale-alla-birra.md)
 
 # Formaggio
 
@@ -56,6 +62,10 @@
 - [Gyoza vegetariani](gyoza-vegetariani.md)
 - [Patate e zucca al forno gratinate](Patate-e-zucca-al-forno-gratinate.md)
 - [Zucca marinata cotta](Zucca-marinata-cotta.md)
+- [Torta salata di carote](Torta-salata-di-carote.md)
+- [Chips di carote al forno croccanti](Chips-di-carote-al-forno.md)
+- [Patate al forno](Patate-al-forno.md)
+- [Couscous alle verdure](Couscous-alle-verdure.md)
 
 # Varie
 
@@ -63,6 +73,7 @@
 - [Uova ripiene al pesto](Uova-ripiene-al-pesto.md)
 - [Uova al purgatorio](Uova-al-purgatorio.md)
 - [Uova e patate](Uova-e-patate.md)
+- [Tamago Kake Gohan](Tamago-Kake-Gohan.md)
 
 # Piatti unici
 

@@ -35,6 +35,9 @@
 - [Crostata di ricotta e limone](Crostata-di-ricotta-e-limone.md)
 - [Budino di riso](Budino-di-riso.md)
 - [Biscottoni alla ricotta](Biscottoni-alla-ricotta.md)
+- [Biscotti a modo mio](Biscotti-a-modo-mio.md)
+- [Bucce di limone candite](Bucce-di-limone-candite.md)
+- [Pinza](Pinza.md)
 
 # Glasse
 
