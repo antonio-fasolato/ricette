@@ -15,6 +15,11 @@
 - [Pasta con crema di carciofi](Pasta-con-crema-di-carciofi.md)
 - [Spaghetti alla vigliacca](Spaghetti-alla-vigliacca.md)
 - [Pasta ai due pomodori con tonno e olive](Pasta-ai-due-pomodori-con-tonno.md)
+- [Pasta al forno con zucchine e pancetta](Pasta-al-forno-con-zucchine-e-pancetta.md)
+- [Miso Butter Ramen](Miso-Butter-Ramen.md)
+- [Double Bean Mazemen](Double-Bean-Mazemen.md)
+- [Pork Soboro: The Japanese Ragù](Pork-Soboro.md)
+- [Pasta con bruscandoli](Pasta-con-bruscandoli.md)
 
 # Riso
 

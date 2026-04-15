@@ -16,6 +16,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - If the recipe steps are divided into parts or sections, use `### Section name` subsections under `## Procedimento`, each with its own numbered list
 - If the recipe needs to be baked and there is an oven temperature, add it at the start of `## Procedimento` (or the relevant section) as a block quote, e.g. `> Preriscaldare il forno a 180°`
 - When a YouTube URL is provided for a recipe, attempt to fetch the page to extract title and description. YouTube often redirects to a consent page, so if fetching fails, ask the user to paste the description text directly. Once the description is available, extract ingredients and steps from it.
+- When you add a new recipe to the list in the corresponding index.md, always add it as last element of the list.
 
 ## Commands
 
