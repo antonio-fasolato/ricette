@@ -14,5 +14,6 @@
 
 # Varie
 
+- [Easy quick pickles](Easy-quick-pickles.md)
 - Attrezzatura
     - [Come si sterilizzano i vasetti per le conserve](Come-si-sterilizzano-i-vasetti-per-le-conserve.md)
