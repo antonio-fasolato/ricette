@@ -29,3 +29,30 @@ tags:
 - **Source of vitamins** Being uncooked, fermented vegetables have their vitamins locked in, providing a great dose of vitamin C in particular. Lactobacillus, meanwhile, supports the guy and immune system.
 - **Serving suggestion** Serving your sauerkraut fresh from the jar is the best way to maintain all the goodness packed in there - it's like eating a pot of friendly-bacteria yogurt every morning.
 - **Cooking with sauerkraut** Heating does kill the bacteria, but don't let that put you off some of the delivious recipes you can make with sauerkraut - you'll still be getting an excellent source of vitamins and fibre, as well as that homemade flavour.
+
+# Andy cook
+
+<p style="text-align:center;">
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/<Shorts_video_code>"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+</p>
+
+## Ingredienti
+
+| Ingredienti                  | Ingredienti             |
+| ---------------------------- | ----------------------- |
+| **1 head** - Green cabbage | Sale fino |
+| **1 tbsp** - Caraway seeds |  |
+
+## Procedimento
+
+1. Cut the cabbage in half, remove the core, then slice thinly.
+2. Weigh the cabbage, then weigh 20g of salt for every 1kg of cabbage.
+3. Working in batches, sprinkle the salt evenly over the cabbage and then massage it in well. Let it rest for 30 minutes.
+4. Next, add the caraway seeds and mix well.
+5. Pack the cabbage mixture into a glass or ceramic jar and cover it. Leave it in a cool, dark spot to ferment for 3 weeks, making sure you let any gas out daily to avoid an explosion.
+6. After 3 weeks, it's ready to eat. At that point, store it in the fridge and enjoy!

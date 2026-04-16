@@ -1,6 +1,7 @@
 # Pesce
 
 - [Fish and chips with tartar sauce](Fish-and-chips.md)
+- [Potato Rösti with Smoked Salmon](Potato-Rosti-with-Smoked-Salmon.md)
 
 # Carne
 
@@ -28,6 +29,8 @@
 - [Gyudon (Japanese Simmered Beef and Rice Bowls)](Gyudon.md)
 - [Pollo alla birra](Pollo-alla-birra.md)
 - [Straccetti di maiale alla birra](Straccetti-di-maiale-alla-birra.md)
+- [Simple Chicken Curry](Simple-Chicken-Curry.md)
+- [Coconut Chilli Chicken](Coconut-Chilli-Chicken.md)
 
 # Formaggio
 
