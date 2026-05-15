@@ -20,6 +20,8 @@
 - [Double Bean Mazemen](Double-Bean-Mazemen.md)
 - [Pork Soboro: The Japanese Ragù](Pork-Soboro.md)
 - [Pasta con bruscandoli](Pasta-con-bruscandoli.md)
+- [Pasta alle zucchine (Anna di Vicenza)](Pasta-alle-zucchine-Anna-di-Vicenza.md)
+- [Pasta con sugo di cipolle e Noci (Milena)](Pasta-con-sugo-di-cipolle-e-Noci.md)
 
 # Riso
 
