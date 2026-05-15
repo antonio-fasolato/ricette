@@ -81,3 +81,4 @@
 # Piatti unici
 
 - [Crostata al prosciuttto cotto](crostata-al-prosciuttto-cotto.md)
+- [Grilled Chicken, Sun-Dried Tomato Pasta Salad](Grilled-Chicken-Sun-Dried-Tomato-Pasta-Salad.md)
