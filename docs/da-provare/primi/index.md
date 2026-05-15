@@ -22,6 +22,9 @@
 - [Pasta con bruscandoli](Pasta-con-bruscandoli.md)
 - [Pasta alle zucchine (Anna di Vicenza)](Pasta-alle-zucchine-Anna-di-Vicenza.md)
 - [Pasta con sugo di cipolle e Noci (Milena)](Pasta-con-sugo-di-cipolle-e-Noci.md)
+- [Mezze penne al pesto di menta](Mezze-penne-al-pesto-di-menta.md)
+- [Mezzelune con zucca ai semi di papavero](Mezzelune-con-zucca-ai-semi-di-papavero.md)
+- [Risotto ai peperoni](Risotto-ai-peperoni.md)
 
 # Riso
 
