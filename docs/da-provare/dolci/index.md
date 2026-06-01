@@ -37,6 +37,8 @@
 - [Biscotti a modo mio](Biscotti-a-modo-mio.md)
 - [Bucce di limone candite](Bucce-di-limone-candite.md)
 - [Pinza](Pinza.md)
+- [Peanut Butter Energy Balls](Peanut-Butter-Energy-Balls.md)
+- [Custard creams](custard-creams.md)
 
 # Glasse
 
