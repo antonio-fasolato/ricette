@@ -24,7 +24,6 @@
 - [Pasta con sugo di cipolle e Noci (Milena)](Pasta-con-sugo-di-cipolle-e-Noci.md)
 - [Mezze penne al pesto di menta](Mezze-penne-al-pesto-di-menta.md)
 - [Mezzelune con zucca ai semi di papavero](Mezzelune-con-zucca-ai-semi-di-papavero.md)
-- [Risotto ai peperoni](Risotto-ai-peperoni.md)
 
 # Riso
 
@@ -32,6 +31,16 @@
 - [Riso alla cantonese](Riso-alla-cantonese.md)
 - [Risotto con peperoni e rucola](Risotto-con-peperoni-e-rucola.md)
 - [Risotto porri e salsiccia](Risotto-porri-e-salsiccia.md)
+- [Risotto ai peperoni](Risotto-ai-peperoni.md)
+- [Risotto all'isolana](Risotto-all-isolana.md)
+- [Risotto al tocco croccante](Risotto-al-tocco-croccante.md)
+
+# Canederli
+
+- [Canederli alla zucca](Canederli-alla-zucca.md)
+- [Canederli dolci di ricotta e fragole](Canederli-dolci-di-ricotta-e-fragole.md)
+- [Canederli allo speck e rape rosse alla birra Rauca e Altavienna](Canederli-allo-speck-e-rape-rosse-alla-birra-Rauca-e-Altavienna.md)
+- [Canederli ai porri e fresco primiero con salsa al trentingrana](Canederli-ai-porri-e-fresco-primiero-con-salsa-al-trentingrana.md)
 
 # Zuppe
 
