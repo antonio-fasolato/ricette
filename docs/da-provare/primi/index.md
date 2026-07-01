@@ -24,6 +24,8 @@
 - [Pasta con sugo di cipolle e Noci (Milena)](Pasta-con-sugo-di-cipolle-e-Noci.md)
 - [Mezze penne al pesto di menta](Mezze-penne-al-pesto-di-menta.md)
 - [Mezzelune con zucca ai semi di papavero](Mezzelune-con-zucca-ai-semi-di-papavero.md)
+- [Pasta alla Norma](Pasta-alla-Norma.md)
+- [Spaghetti alla Nerano](Spaghetti-alla-Nerano.md)
 
 # Riso
 

@@ -31,6 +31,7 @@
 - [Straccetti di maiale alla birra](Straccetti-di-maiale-alla-birra.md)
 - [Simple Chicken Curry](Simple-Chicken-Curry.md)
 - [Coconut Chilli Chicken](Coconut-Chilli-Chicken.md)
+- [Crocchette di pollo al timo](Crocchette-di-pollo-al-timo.md)
 
 # Formaggio
 
@@ -69,6 +70,7 @@
 - [Chips di carote al forno croccanti](Chips-di-carote-al-forno.md)
 - [Patate al forno](Patate-al-forno.md)
 - [Couscous alle verdure](Couscous-alle-verdure.md)
+- [Polpette di asparagi e menta](Polpette-di-asparagi-e-menta.md)
 
 # Varie
 
