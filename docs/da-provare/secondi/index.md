@@ -56,6 +56,7 @@
 - [Arepa](Arepa.md)
 - [Stuffed potato cakes](Stuffed-potato-cakes.md)
 - [Frittata estiva di verdure](Frittata-estiva-di-verdure.md)
+
 - [Torta rovesciata di peperoni e olive](Torta-rovesciata-di-peperoni-e-olive.md)
 - [Roast di cavolfiore](Roast-di-cavolfiore.md)
 - [Duchess Potatoes](Duchess-Potatoes.md)
@@ -72,6 +73,7 @@
 - [Couscous alle verdure](Couscous-alle-verdure.md)
 - [Polpette di asparagi e menta](Polpette-di-asparagi-e-menta.md)
 - [Bastoncini di zucchine fritti](bastoncini-di-zucchine-fritti.md)
+- [Carote marinate al limone e basilico](carote-marinate-al-limone-e-basilico.md)
 
 # Varie
 
