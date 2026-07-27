@@ -26,6 +26,8 @@
 - [Mezzelune con zucca ai semi di papavero](Mezzelune-con-zucca-ai-semi-di-papavero.md)
 - [Pasta alla Norma](Pasta-alla-Norma.md)
 - [Spaghetti alla Nerano](Spaghetti-alla-Nerano.md)
+- [Pasta mista con patate e provola](pasta-mista-con-patate-e-provola.md)
+- [Pasta gratinata con ragù vegetale](pasta-gratinata-con-ragu-vegetale.md)
 
 # Riso
 

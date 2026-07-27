@@ -71,6 +71,7 @@
 - [Patate al forno](Patate-al-forno.md)
 - [Couscous alle verdure](Couscous-alle-verdure.md)
 - [Polpette di asparagi e menta](Polpette-di-asparagi-e-menta.md)
+- [Bastoncini di zucchine fritti](bastoncini-di-zucchine-fritti.md)
 
 # Varie
 
