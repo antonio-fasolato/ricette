@@ -1,6 +1,7 @@
 # Pasta
 
 - [Sugo di pomodoro fresco al basilico](Sugo-di-pomodoro-fresco-al-basilico.md)
+- [Pesto genovese](pesto-genovese.md)
 - [Spaghetti Cacio e Pepe](Spaghetti-Cacio-e-Pepe.md)
 - [Pizzoccheri con patate e verza](Pizzoccheri-con-patate-e-verza.md)
 - [Tagliolini al limone](Tagliolini-al-limone.md)
