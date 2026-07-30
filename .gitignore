@@ -4,3 +4,4 @@ book
 node_modules/
 site/
 .playwright-mcp/
+*.swp
