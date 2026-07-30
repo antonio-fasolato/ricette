@@ -6,6 +6,7 @@ for FILENAME in docs/img/*; do
         *screenshot-*) continue;;
         *icon512_*) continue ;;
         *favicon.ico*) continue ;;
+        *favicon.png*) continue ;;
     esac
     F=$(basename -- "$FILENAME")
     magick "$FILENAME" "docs/img/${F%.*}.webp"
