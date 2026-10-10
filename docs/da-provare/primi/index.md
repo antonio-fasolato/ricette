@@ -52,3 +52,4 @@
 - [Crema di fave, cicoria e noci](Crema-di-fave-cicoria-e-noci.md)
 - [Vellutata di funghi porcini](Vellutata-di-funghi-porcini.md)
 - [Vellutata di zucca e guanciale](Vellutata-di-zucca-e-guanciale.md)
+- [Zuppa di lenticchie con curcuma e zenzero](zuppa-di-lenticchie-con-curcuma-e-zenzero.md)
