@@ -1,11 +1,11 @@
-![](../../img/biscotti-al-limone-senza-farina-ne-burro.webp)
+![](../img/biscotti-al-limone-senza-farina-ne-burro.webp)
 
 ## Ingredienti
 
 | Ingredienti                  | Ingredienti             |
 | ---------------------------- | ----------------------- |
-| **30 g** - Albume | **75 g** - Farina di mandorle |
-| **60 g** - Zucchero | **1 pizzico** - Sale |
+| **60 g** - Albume (2 uova) | **150 g** - Farina di mandorle |
+| **120 g** - Zucchero | **1 pizzico** - Sale |
 | Scorza di limone grattugiata | Zucchero a velo |
 
 ## Procedimento
