@@ -82,6 +82,7 @@
 - [Uova al purgatorio](Uova-al-purgatorio.md)
 - [Uova e patate](Uova-e-patate.md)
 - [Tamago Kake Gohan](Tamago-Kake-Gohan.md)
+- [Frittata di patate al forno](frittata-di-patate-al-forno.md)
 
 # Piatti unici
 
