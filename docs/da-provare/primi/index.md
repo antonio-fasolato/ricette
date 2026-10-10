@@ -28,6 +28,7 @@
 - [Spaghetti alla Nerano](Spaghetti-alla-Nerano.md)
 - [Pasta mista con patate e provola](pasta-mista-con-patate-e-provola.md)
 - [Pasta gratinata con ragù vegetale](pasta-gratinata-con-ragu-vegetale.md)
+- [Pasta con pesto di noci e miele](pasta-con-pesto-di-noci-e-miele.md)
 
 # Riso
 
@@ -52,3 +53,4 @@
 - [Crema di fave, cicoria e noci](Crema-di-fave-cicoria-e-noci.md)
 - [Vellutata di funghi porcini](Vellutata-di-funghi-porcini.md)
 - [Vellutata di zucca e guanciale](Vellutata-di-zucca-e-guanciale.md)
+- [Zuppa di lenticchie con curcuma e zenzero](zuppa-di-lenticchie-con-curcuma-e-zenzero.md)

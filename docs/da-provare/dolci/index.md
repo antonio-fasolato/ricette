@@ -41,7 +41,6 @@
 - [Custard creams](custard-creams.md)
 - [Torta sfumature d'arancio](Torta-sfumature-d-arancio.md)
 - [Biscotti paradiso](biscotti-paradiso.md)
-- [Biscotti al limone senza farina né burro](biscotti-al-limone-senza-farina-ne-burro.md)
 
 # Glasse
 
