@@ -41,6 +41,7 @@
 - [Custard creams](custard-creams.md)
 - [Torta sfumature d'arancio](Torta-sfumature-d-arancio.md)
 - [Biscotti paradiso](biscotti-paradiso.md)
+- [Sbriciolata alla Nutella](sbriciolata-alla-nutella.md)
 
 # Glasse
 
