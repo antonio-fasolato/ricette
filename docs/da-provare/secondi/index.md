@@ -75,6 +75,7 @@
 - [Bastoncini di zucchine fritti](bastoncini-di-zucchine-fritti.md)
 - [Carote marinate al limone e basilico](carote-marinate-al-limone-e-basilico.md)
 - [Patate sabbiose in padella](patate-sabbiose-in-padella.md)
+- [Patatine fritte della nonna](patatine-fritte-della-nonna.md)
 
 # Varie
 
