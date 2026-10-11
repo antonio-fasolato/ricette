@@ -39,6 +39,7 @@
 - [Risotto ai peperoni](Risotto-ai-peperoni.md)
 - [Risotto all'isolana](Risotto-all-isolana.md)
 - [Risotto al tocco croccante](Risotto-al-tocco-croccante.md)
+- [Riso e patate](riso-e-patate.md)
 
 # Canederli
 
