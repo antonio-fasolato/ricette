@@ -37,4 +37,4 @@
 - [Biscotti Semplici e Veloci](Biscotti-Semplici-e-Veloci.md)
 - [Biscotti linzer](Biscotti-linzer.md)
 - [Copycat Almond Joys](Copycat-Almond-Joys.md)
-- [Biscotti al limone senza farina né burro](biscotti-al-limone-senza-farina-ne-burro.md)
+- [Biscotti farina di mandorle al limone](biscotti-farina-di-mandorle-al-limone.md)
