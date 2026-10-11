@@ -1,4 +1,4 @@
-![](../img/biscotti-al-limone-senza-farina-ne-burro.webp)
+![](../img/biscotti-farina-di-mandorle-al-limone.webp)
 
 ## Ingredienti
 

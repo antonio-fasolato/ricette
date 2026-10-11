@@ -74,6 +74,7 @@
 - [Polpette di asparagi e menta](Polpette-di-asparagi-e-menta.md)
 - [Bastoncini di zucchine fritti](bastoncini-di-zucchine-fritti.md)
 - [Carote marinate al limone e basilico](carote-marinate-al-limone-e-basilico.md)
+- [Patate sabbiose in padella](patate-sabbiose-in-padella.md)
 
 # Varie
 
