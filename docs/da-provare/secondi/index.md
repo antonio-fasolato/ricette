@@ -76,6 +76,7 @@
 - [Carote marinate al limone e basilico](carote-marinate-al-limone-e-basilico.md)
 - [Patate sabbiose in padella](patate-sabbiose-in-padella.md)
 - [Patatine fritte della nonna](patatine-fritte-della-nonna.md)
+- [Cocozza alla scapece](cocozza-alla-scapece.md)
 
 # Varie
 
