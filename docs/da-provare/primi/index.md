@@ -29,6 +29,8 @@
 - [Pasta mista con patate e provola](pasta-mista-con-patate-e-provola.md)
 - [Pasta gratinata con ragù vegetale](pasta-gratinata-con-ragu-vegetale.md)
 - [Pasta con pesto di noci e miele](pasta-con-pesto-di-noci-e-miele.md)
+- [Pasta alla mattacchiona](pasta-alla-mattacchiona.md)
+- [Pasta e patate alla napoletana](pasta-e-patate-alla-napoletana.md)
 
 # Riso
 
