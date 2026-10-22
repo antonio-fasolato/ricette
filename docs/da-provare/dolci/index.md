@@ -42,6 +42,8 @@
 - [Torta sfumature d'arancio](Torta-sfumature-d-arancio.md)
 - [Biscotti paradiso](biscotti-paradiso.md)
 - [Sbriciolata alla Nutella](sbriciolata-alla-nutella.md)
+- [Biscotti da inzuppo](biscotti-da-inzuppo.md)
+- [Torta di mandorle e albumi](torta-di-mandorle-e-albumi.md)
 
 # Glasse
 
