@@ -38,3 +38,4 @@
 - [Biscotti linzer](Biscotti-linzer.md)
 - [Copycat Almond Joys](Copycat-Almond-Joys.md)
 - [Biscotti farina di mandorle al limone](biscotti-farina-di-mandorle-al-limone.md)
+- [Magic Cookie Bars/Hello Dollies](magic-cookie-bars-hello-dollies.md)
